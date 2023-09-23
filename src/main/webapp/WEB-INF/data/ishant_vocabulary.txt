@@ -1,0 +1,6 @@
+{"id":1,"name":"ishant","word":"Whiz","wordNo":1,"meening":"Whiz means \u0027move very fast.\u0027 Some things that whiz make a buzzing or hissing sound.","totalWeeks":2,"totalWords":6}
+{"id":1,"name":"ishant","word":"Squirm","wordNo":2,"meening":"Squirm means \u0027wiggle or twist your body from side to side, usually because you are bored or uncomfortable.\u0027","totalWeeks":2,"totalWords":6}
+{"id":1,"name":"ishant","word":"Rap","wordNo":3,"meening":"Rap means \u0027tap or hit something sharply (forcefully) and quickly\u0027 rap is also a \u0027type of music in which words are spoken in time to music which a steady beat.\u0027","totalWeeks":2,"totalWords":6}
+{"id":1,"name":"ishant","word":"Snap","wordNo":4,"meening":"Snap means \u0027speak sharply or angrily.","totalWeeks":2,"totalWords":6}
+{"id":1,"name":"ishant","word":"Likely","wordNo":5,"meening":"When something is likely, it probably will happen or is probably true.","totalWeeks":2,"totalWords":6}
+{"id":1,"name":"ishant","word":"Unlikely","wordNo":6,"meening":"Unlikely means \u0027not likely.\u0027 When something is likely, it probably will not happen or is probably not true.","totalWeeks":2,"totalWords":6}
