@@ -1,0 +1,87 @@
+<Vocabulary>
+	<Week>
+		<Id>1</Id>
+	    <Name>anish</Name>
+	    <Word>Whiz</Word>
+	    <WordNo>1</WordNo>
+	    <Meening>Whiz means 'move very fast.' Some things that whiz make a buzzing or hissing sound.</Meening>
+	</Week>
+	<Week>
+		<Id>1</Id>
+	    <Name>anish</Name>
+	    <Word>Squirm</Word>
+	    <WordNo>2</WordNo>
+	    <Meening>Squirm means 'wiggle or twist your body from side to side, usually because you are bored or uncomfortable.'</Meening>
+	</Week>
+	<Week>
+		<Id>1</Id>
+	    <Name>anish</Name>
+	    <Word>Rap</Word>
+	    <WordNo>3</WordNo>
+	    <Meening>Rap means 'tap or hit something sharply (forcefully) and quickly' rap is also a 'type of music in which words are spoken in time to music which a steady beat.'</Meening>
+	</Week>
+	<Week>
+		<Id>1</Id>
+	    <Name>anish</Name>
+	    <Word>Snap</Word>
+	    <WordNo>4</WordNo>
+	    <Meening>Snap means 'speak sharply or angrily.</Meening>
+	</Week>
+	<Week>
+		<Id>1</Id>
+	    <Name>anish</Name>
+	    <Word>Likely</Word>
+	    <WordNo>5</WordNo>
+	    <Meening>When something is likely, it probably will happen or is probably true.</Meening>
+	</Week>
+	<Week>
+		<Id>1</Id>
+	    <Name>anish</Name>
+	    <Word>Unlikely</Word>
+	    <WordNo>6</WordNo>
+	    <Meening>Unlikely means 'not likely.' When something is likely, it probably will not happen or is probably not true.</Meening>
+	</Week>
+	<Week>
+		<Id>2</Id>
+	    <Name>anish</Name>
+	    <Word>bustle</Word>
+	    <WordNo>1</WordNo>
+	    <Meening>Bustle mean 'rush or hurry in an excited. noisy, or busy way.'</Meening>
+	</Week>
+	<Week>
+		<Id>2</Id>
+	    <Name>anish</Name>
+	    <Word>volenteer</Word>
+	    <WordNo>2</WordNo>
+	    <Meening>Volunteer means 'offer to do something or help someone by choice.' When you volunteer, you do something because you want to do it. You do not expect pay or a reward.</Meening>
+	</Week>
+	<Week>
+		<Id>2</Id>
+	    <Name>anish</Name>
+	    <Word>debris</Word>
+	    <WordNo>3</WordNo>
+	    <Meening>Debris is the 'scattered pieces of something that has been thrown away, broken, or destroyed.'</Meening>
+	</Week>
+	<Week>
+		<Id>2</Id>
+	    <Name>anish</Name>
+	    <Word>devastate</Word>
+	    <WordNo>4</WordNo>
+	    <Meening>Devastate mean 'destroy or badly damage.'</Meening>
+	</Week>
+	<Week>
+		<Id>2</Id>
+	    <Name>anish</Name>
+	    <Word>ruckus</Word>
+	    <WordNo>5</WordNo>
+	    <Meening>Ruckus mean 'noisy confusion or excitement.' Something unexpected or frightening can cause a ruckus.</Meening>
+	</Week>
+	<Week>
+		<Id>2</Id>
+	    <Name>anish</Name>
+	    <Word>launge</Word>
+	    <WordNo>6</WordNo>
+	    <Meening>Lounge means 'sit or lie in a lazy or relaxed way.'</Meening>
+	</Week>
+
+</Vocabulary>
