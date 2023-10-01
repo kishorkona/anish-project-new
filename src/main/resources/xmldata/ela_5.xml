@@ -607,7 +607,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>Y</SectionId>
 	    <SectionName>Vocabulary->Prefixes and suffixes->Words with pre-</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>words-with-pre</SubSectionName>
 	</Question>
@@ -616,7 +616,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>Y</SectionId>
 	    <SectionName>Vocabulary->Prefixes and suffixes->Words with re-</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>2</SubSectionId>
 	    <SubSectionName>words-with-re</SubSectionName>
 	</Question>
@@ -625,7 +625,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>Y</SectionId>
 	    <SectionName>Vocabulary->Prefixes and suffixes->Words with sub-</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>3</SubSectionId>
 	    <SubSectionName>words-with-sub</SubSectionName>
 	</Question>
@@ -634,7 +634,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>Y</SectionId>
 	    <SectionName>Vocabulary->Prefixes and suffixes->Words with mis-</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>4</SubSectionId>
 	    <SubSectionName>words-with-mis</SubSectionName>
 	</Question>
@@ -643,7 +643,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>Y</SectionId>
 	    <SectionName>Vocabulary->Prefixes and suffixes->Words with un-, dis-, in-, im-, and non-</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>5</SubSectionId>
 	    <SubSectionName>words-with-un-dis-in-im-and-non</SubSectionName>
 	</Question>
@@ -652,7 +652,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>Y</SectionId>
 	    <SectionName>Vocabulary->Prefixes and suffixes->Words with -ful</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>6</SubSectionId>
 	    <SubSectionName>words-with-ful</SubSectionName>
 	</Question>
@@ -661,7 +661,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>Y</SectionId>
 	    <SectionName>Vocabulary->Prefixes and suffixes->Words with -less</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>7</SubSectionId>
 	    <SubSectionName>words-with-less</SubSectionName>
 	</Question>
@@ -670,7 +670,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>Y</SectionId>
 	    <SectionName>Vocabulary->Prefixes and suffixes->Words with -able and -ible</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>8</SubSectionId>
 	    <SubSectionName>words-with-able-and-ible</SubSectionName>
 	</Question>
@@ -679,7 +679,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>Y</SectionId>
 	    <SectionName>Vocabulary->Prefixes and suffixes->Sort words with shared prefixes and suffixes by meaning</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>9</SubSectionId>
 	    <SubSectionName>sort-words-with-shared-prefixes-and-suffixes-by-meaning</SubSectionName>
 	</Question>
@@ -688,7 +688,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>Y</SectionId>
 	    <SectionName>Vocabulary->Prefixes and suffixes->Sort words with shared suffixes by part of speech</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>10</SubSectionId>
 	    <SubSectionName>sort-words-with-shared-suffixes-by-part-of-speech</SubSectionName>
 	</Question>
@@ -697,7 +697,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>Y</SectionId>
 	    <SectionName>Vocabulary->Prefixes and suffixes->Word pattern analogies</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>11</SubSectionId>
 	    <SubSectionName>word-pattern-analogies</SubSectionName>
 	</Question>
@@ -706,7 +706,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>Y</SectionId>
 	    <SectionName>Vocabulary->Prefixes and suffixes->Word pattern sentences</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>12</SubSectionId>
 	    <SubSectionName>word-pattern-sentences</SubSectionName>
 	</Question>
