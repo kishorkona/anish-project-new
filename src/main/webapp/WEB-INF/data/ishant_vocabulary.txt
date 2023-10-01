@@ -1,0 +1,4 @@
+{"id":1,"name":"ishant","word":"Tumble","wordNo":1,"meening":"Tumble means \u0027fall and roll over and over.\u0027","totalWeeks":1,"totalWords":4}
+{"id":1,"name":"ishant","word":"Swirl","wordNo":2,"meening":"Swirl means \u0027move in a circle.\u0027","totalWeeks":1,"totalWords":4}
+{"id":1,"name":"ishant","word":"Compassinate","wordNo":3,"meening":"Compassinate means \u0027kind to a person or animal who is suffering or unhappy.\u0027","totalWeeks":1,"totalWords":4}
+{"id":1,"name":"ishant","word":"Content","wordNo":4,"meening":"Content means \u0027happy with what is happening or what you are doing.\u0027","totalWeeks":1,"totalWords":4}
