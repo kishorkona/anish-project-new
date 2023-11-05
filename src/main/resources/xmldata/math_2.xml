@@ -859,7 +859,7 @@
 	    <Grade>2</Grade>
 	    <SectionId>M</SectionId>
 	    <SectionName>Addition strategies: two digits</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>0</Enabled>
 	    <SubSectionId>3</SubSectionId>
 	    <SubSectionName>use-models-to-add-a-two-digit-and-a-one-digit-number-with-regrouping</SubSectionName>
 	</Question>
@@ -877,7 +877,7 @@
 	    <Grade>2</Grade>
 	    <SectionId>M</SectionId>
 	    <SectionName>Addition strategies: two digits</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>0</Enabled>
 	    <SubSectionId>5</SubSectionId>
 	    <SubSectionName>break-apart-a-two-digit-number-to-add-sums-to-100</SubSectionName>
 	</Question>
@@ -1129,7 +1129,7 @@
 	    <Grade>2</Grade>
 	    <SectionId>O</SectionId>
 	    <SectionName>Subtraction strategies: two digits</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>0</Enabled>
 	    <SubSectionId>4</SubSectionId>
 	    <SubSectionName>break-apart-a-two-digit-number-to-subtract</SubSectionName>
 	</Question>
@@ -1507,7 +1507,7 @@
 	    <Grade>2</Grade>
 	    <SectionId>U</SectionId>
 	    <SectionName>Subtraction strategies: three digits</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>0</Enabled>
 	    <SubSectionId>3</SubSectionId>
 	    <SubSectionName>use-models-to-subtract-three-digit-numbers-with-regrouping</SubSectionName>
 	</Question>
@@ -1534,7 +1534,7 @@
 	    <Grade>2</Grade>
 	    <SectionId>V</SectionId>
 	    <SectionName>Subtraction: three digits</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>0</Enabled>
 	    <SubSectionId>3</SubSectionId>
 	    <SubSectionName>subtract-across-zeros</SubSectionName>
 	</Question>
@@ -1543,7 +1543,7 @@
 	    <Grade>2</Grade>
 	    <SectionId>V</SectionId>
 	    <SectionName>Subtraction: three digits</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>0</Enabled>
 	    <SubSectionId>4</SubSectionId>
 	    <SubSectionName>subtract-from-three-digit-numbers</SubSectionName>
 	</Question>
@@ -1741,7 +1741,7 @@
 	    <Grade>2</Grade>
 	    <SectionId>Z</SectionId>
 	    <SectionName>Estimation and rounding</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>0</Enabled>
 	    <SubSectionId>3</SubSectionId>
 	    <SubSectionName>round-to-the-nearest-ten-or-hundred</SubSectionName>
 	</Question>
