@@ -49,7 +49,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>A</SectionId>
 	    <SectionName>Whole numbers and place value</SectionName>
-	    <Enabled>2</Enabled>
+	    <Enabled>0</Enabled>
 	    <SubSectionId>6</SubSectionId>
 	    <SubSectionName>roman-numerals-i-v-x-l-c-d-m</SubSectionName>
 	</Question>
@@ -490,7 +490,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>F</SectionId>
 	    <SectionName>Factors, multiples, and divisibility</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>0</Enabled>
 	    <SubSectionId>3</SubSectionId>
 	    <SubSectionName>prime-factorization</SubSectionName>
 	</Question>
@@ -751,7 +751,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>K</SectionId>
 	    <SectionName>Compare fractions</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>0</Enabled>
 	    <SubSectionId>2</SubSectionId>
 	    <SubSectionName>compare-fractions-using-benchmarks</SubSectionName>
 	</Question>
@@ -823,7 +823,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>L</SectionId>
 	    <SectionName>Add and subtract fractions</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>5a</SubSectionId>
 	    <SubSectionName>add-and-subtract-fractions-with-unlike-denominators-no-simplify</SubSectionName>
 	</Question>
@@ -877,7 +877,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>M</SectionId>
 	    <SectionName>Add and subtract mixed numbers</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>0</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>estimate-sums-and-differences-of-mixed-numbers</SubSectionName>
 	</Question>
@@ -994,7 +994,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>N</SectionId>
 	    <SectionName>Understand fraction multiplication</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>0</Enabled>
 	    <SubSectionId>5</SubSectionId>
 	    <SubSectionName>multiply-fractions-by-whole-numbers-using-arrays</SubSectionName>
 	</Question>
@@ -1102,7 +1102,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>P</SectionId>
 	    <SectionName>Multiply fractions</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>0</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>multiply-two-fractions</SubSectionName>
 	</Question>
@@ -1111,7 +1111,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>P</SectionId>
 	    <SectionName>Multiply fractions</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>0</Enabled>
 	    <SubSectionId>2</SubSectionId>
 	    <SubSectionName>multiply-two-fractions-word-problems</SubSectionName>
 	</Question>
@@ -1120,7 +1120,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>P</SectionId>
 	    <SectionName>Multiply fractions</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>0</Enabled>
 	    <SubSectionId>3</SubSectionId>
 	    <SubSectionName>multiply-three-fractions-and-whole-numbers</SubSectionName>
 	</Question>
@@ -2434,7 +2434,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>LL</SectionId>
 	    <SectionName>Coordinate plane</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>0</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>describe-the-coordinate-plane</SubSectionName>
 	</Question>	
@@ -2506,7 +2506,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>MM</SectionId>
 	    <SectionName>Variable expressions</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>0</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>write-variable-expressions</SubSectionName>
 	</Question>	
@@ -3037,7 +3037,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>TT</SectionId>
 	    <SectionName>Area</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>0</Enabled>
 	    <SubSectionId>2</SubSectionId>
 	    <SubSectionName>area-of-rectangles-with-fractions</SubSectionName>
 	</Question>	
