@@ -2083,7 +2083,7 @@
 	    <Grade>4</Grade>
 	    <SectionId>BB</SectionId>
 	    <SectionName>Data and graphs</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>0</Enabled>
 	    <SubSectionId>11</SubSectionId>
 	    <SubSectionName>interpret-stem-and-leaf-plots</SubSectionName>
 	</Question>
@@ -2092,7 +2092,7 @@
 	    <Grade>4</Grade>
 	    <SectionId>BB</SectionId>
 	    <SectionName>Data and graphs</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>0</Enabled>
 	    <SubSectionId>12</SubSectionId>
 	    <SubSectionName>create-stem-and-leaf-plots</SubSectionName>
 	</Question>
@@ -2263,7 +2263,7 @@
 	    <Grade>4</Grade>
 	    <SectionId>DD</SectionId>
 	    <SectionName>Customary units of measurement</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>0</Enabled>
 	    <SubSectionId>10</SubSectionId>
 	    <SubSectionName>add-and-subtract-mixed-customary-units</SubSectionName>
 	</Question>
