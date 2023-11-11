@@ -913,7 +913,7 @@
 	    <Grade>2</Grade>
 	    <SectionId>M</SectionId>
 	    <SectionName>Addition strategies: two digits</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>0</Enabled>
 	    <SubSectionId>9</SubSectionId>
 	    <SubSectionName>use-models-to-add-two-digit-numbers-with-regrouping</SubSectionName>
 	</Question>
