@@ -2479,7 +2479,7 @@
 	    <Grade>4</Grade>
 	    <SectionId>HH</SectionId>
 	    <SectionName>Area</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>0</Enabled>
 	    <SubSectionId>10</SubSectionId>
 	    <SubSectionName>rectangles-relationship-between-perimeter-and-area-word-problems</SubSectionName>
 	</Question>
