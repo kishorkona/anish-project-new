@@ -1327,7 +1327,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>MM</SectionId>
 	    <SectionName>Grammar and mechanics->Verb types->Identify main verbs and helping verbs</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>0</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>identify-main-verbs-and-helping-verbs</SubSectionName>
 	</Question>
@@ -1552,7 +1552,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>QQ</SectionId>
 	    <SectionName>Grammar and mechanics->Prepositions->Identify prepositions</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>0</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>identify-prepositions</SubSectionName>
 	</Question>
