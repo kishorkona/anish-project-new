@@ -2065,7 +2065,7 @@
 	    <Grade>4</Grade>
 	    <SectionId>BB</SectionId>
 	    <SectionName>Data and graphs</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>0</Enabled>
 	    <SubSectionId>9</SubSectionId>
 	    <SubSectionName>interpret-frequency-charts</SubSectionName>
 	</Question>
