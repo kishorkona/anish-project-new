@@ -778,7 +778,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>L</SectionId>
 	    <SectionName>Add and subtract fractions</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>0</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>estimate-sums-and-differences-of-fractions-using-benchmarks</SubSectionName>
 	</Question>
@@ -2074,7 +2074,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>GG</SectionId>
 	    <SectionName>Mixed operations: decimals</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>0</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>add-subtract-multiply-and-divide-decimals</SubSectionName>
 	</Question>	
@@ -2083,7 +2083,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>GG</SectionId>
 	    <SectionName>Mixed operations: decimals</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>0</Enabled>
 	    <SubSectionId>2</SubSectionId>
 	    <SubSectionName>add-subtract-multiply-and-divide-decimals-word-problems</SubSectionName>
 	</Question>	
