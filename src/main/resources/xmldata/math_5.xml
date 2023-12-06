@@ -1570,7 +1570,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>Y</SectionId>
 	    <SectionName>Convert between decimals and fractions</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>model-decimals-and-fractions</SubSectionName>
 	</Question>	
@@ -1615,7 +1615,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>Z</SectionId>
 	    <SectionName>Compare decimals and fractions</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>compare-decimals-and-fractions-on-number-lines</SubSectionName>
 	</Question>	
@@ -1624,7 +1624,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>Z</SectionId>
 	    <SectionName>Compare decimals and fractions</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>2</SubSectionId>
 	    <SubSectionName>compare-decimals-and-fractions</SubSectionName>
 	</Question>	
@@ -1633,7 +1633,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>Z</SectionId>
 	    <SectionName>Compare decimals and fractions</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>3</SubSectionId>
 	    <SubSectionName>put-a-mix-of-decimals-and-fractions-in-order</SubSectionName>
 	</Question>	
@@ -1642,7 +1642,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>Z</SectionId>
 	    <SectionName>Compare decimals and fractions</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>4</SubSectionId>
 	    <SubSectionName>put-a-mix-of-decimals-fractions-and-mixed-numbers-in-order</SubSectionName>
 	</Question>	
