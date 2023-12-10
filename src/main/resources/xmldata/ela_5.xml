@@ -607,7 +607,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>Y</SectionId>
 	    <SectionName>Vocabulary->Prefixes and suffixes->Words with pre-</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>2</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>words-with-pre</SubSectionName>
 	</Question>
@@ -616,7 +616,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>Y</SectionId>
 	    <SectionName>Vocabulary->Prefixes and suffixes->Words with re-</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>2</Enabled>
 	    <SubSectionId>2</SubSectionId>
 	    <SubSectionName>words-with-re</SubSectionName>
 	</Question>
@@ -625,7 +625,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>Y</SectionId>
 	    <SectionName>Vocabulary->Prefixes and suffixes->Words with sub-</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>2</Enabled>
 	    <SubSectionId>3</SubSectionId>
 	    <SubSectionName>words-with-sub</SubSectionName>
 	</Question>
@@ -634,7 +634,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>Y</SectionId>
 	    <SectionName>Vocabulary->Prefixes and suffixes->Words with mis-</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>2</Enabled>
 	    <SubSectionId>4</SubSectionId>
 	    <SubSectionName>words-with-mis</SubSectionName>
 	</Question>
@@ -643,7 +643,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>Y</SectionId>
 	    <SectionName>Vocabulary->Prefixes and suffixes->Words with un-, dis-, in-, im-, and non-</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>2</Enabled>
 	    <SubSectionId>5</SubSectionId>
 	    <SubSectionName>words-with-un-dis-in-im-and-non</SubSectionName>
 	</Question>
@@ -652,7 +652,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>Y</SectionId>
 	    <SectionName>Vocabulary->Prefixes and suffixes->Words with -ful</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>2</Enabled>
 	    <SubSectionId>6</SubSectionId>
 	    <SubSectionName>words-with-ful</SubSectionName>
 	</Question>
@@ -661,7 +661,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>Y</SectionId>
 	    <SectionName>Vocabulary->Prefixes and suffixes->Words with -less</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>2</Enabled>
 	    <SubSectionId>7</SubSectionId>
 	    <SubSectionName>words-with-less</SubSectionName>
 	</Question>
@@ -670,7 +670,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>Y</SectionId>
 	    <SectionName>Vocabulary->Prefixes and suffixes->Words with -able and -ible</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>2</Enabled>
 	    <SubSectionId>8</SubSectionId>
 	    <SubSectionName>words-with-able-and-ible</SubSectionName>
 	</Question>
@@ -715,7 +715,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>Z</SectionId>
 	    <SectionName>Vocabulary->Greek and Latin roots->Sort words by shared Greek or Latin roots</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>2</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>sort-words-by-shared-greek-or-latin-roots</SubSectionName>
 	</Question>
@@ -830,7 +830,7 @@
 	<Question>
 	    <Subject>Language Arts</Subject>
 	    <Grade>5</Grade>
-	    <SectionId>CCC</SectionId>
+	    <SectionId>CC</SectionId>
 	    <SectionName>Vocabulary->Analogies->Analogies</SectionName>
 	    <Enabled>1</Enabled>
 	    <SubSectionId>1</SubSectionId>
@@ -841,7 +841,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>DD</SectionId>
 	    <SectionName>Vocabulary->Homophones->Homophones with pictures</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>2</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>homophones-with-pictures</SubSectionName>
 	</Question>
@@ -859,7 +859,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>EE</SectionId>
 	    <SectionName>Vocabulary->Multiple-meaning words->Multiple-meaning words with pictures</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>2</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>multiple-meaning-words-with-pictures</SubSectionName>
 	</Question>
@@ -1147,7 +1147,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>KK</SectionId>
 	    <SectionName>Grammar and mechanics->Nouns->Identify nouns – with abstract nouns</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>identify-nouns-with-abstract-nouns</SubSectionName>
 	</Question>
@@ -1156,7 +1156,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>KK</SectionId>
 	    <SectionName>Grammar and mechanics->Nouns->Identify common and proper nouns</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>2</SubSectionId>
 	    <SubSectionName>identify-common-and-proper-nouns</SubSectionName>
 	</Question>
@@ -1165,7 +1165,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>KK</SectionId>
 	    <SectionName>Grammar and mechanics->Nouns->Form plurals of nouns ending in f, fe, o, and y</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>3</SubSectionId>
 	    <SubSectionName>form-plurals-of-nouns-ending-in-f-fe-o-and-y</SubSectionName>
 	</Question>
@@ -1174,7 +1174,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>KK</SectionId>
 	    <SectionName>Grammar and mechanics->Nouns->Form and use plurals of nouns ending in f, fe, o, and y</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>4</SubSectionId>
 	    <SubSectionName>form-and-use-plurals-of-nouns-ending-in-f-fe-o-and-y</SubSectionName>
 	</Question>
@@ -1183,7 +1183,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>KK</SectionId>
 	    <SectionName>Grammar and mechanics->Nouns->Form plurals: review</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>5</SubSectionId>
 	    <SubSectionName>form-plurals-review</SubSectionName>
 	</Question>
@@ -1192,7 +1192,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>KK</SectionId>
 	    <SectionName>Grammar and mechanics->Nouns->Form and use plurals: review</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>6</SubSectionId>
 	    <SubSectionName>form-and-use-plurals-review</SubSectionName>
 	</Question>
@@ -1201,7 +1201,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>KK</SectionId>
 	    <SectionName>Grammar and mechanics->Nouns->Identify plurals, singular possessives, and plural possessives</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>7</SubSectionId>
 	    <SubSectionName>identify-plurals-singular-possessives-and-plural-possessives</SubSectionName>
 	</Question>
@@ -1210,7 +1210,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>KK</SectionId>
 	    <SectionName>Grammar and mechanics->Nouns->Form the singular or plural possessive</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>8</SubSectionId>
 	    <SubSectionName>form-the-singular-or-plural-possessive</SubSectionName>
 	</Question>
@@ -1219,7 +1219,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>KK</SectionId>
 	    <SectionName>Grammar and mechanics->Nouns->Identify and correct errors with plural and possessive nouns</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>9</SubSectionId>
 	    <SubSectionName>identify-and-correct-errors-with-plural-and-possessive-nouns</SubSectionName>
 	</Question>
@@ -1228,7 +1228,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>LL</SectionId>
 	    <SectionName>Grammar and mechanics->Pronouns->Identify personal pronouns</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>identify-personal-pronouns</SubSectionName>
 	</Question>
@@ -1237,7 +1237,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>LL</SectionId>
 	    <SectionName>Grammar and mechanics->Pronouns->Choose between subject and object personal pronouns</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>2</SubSectionId>
 	    <SubSectionName>choose-between-subject-and-object-personal-pronouns</SubSectionName>
 	</Question>
@@ -1246,7 +1246,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>LL</SectionId>
 	    <SectionName>Grammar and mechanics->Pronouns->Replace the noun with a personal pronoun</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>3</SubSectionId>
 	    <SubSectionName>replace-the-noun-with-a-personal-pronoun</SubSectionName>
 	</Question>
@@ -1255,7 +1255,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>LL</SectionId>
 	    <SectionName>Grammar and mechanics->Pronouns->Compound subjects and objects with 'I' and 'me'</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>4</SubSectionId>
 	    <SubSectionName>compound-subjects-and-objects-with-i-and-me</SubSectionName>
 	</Question>
@@ -1264,7 +1264,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>LL</SectionId>
 	    <SectionName>Grammar and mechanics->Pronouns->Compound subjects and objects with personal pronouns</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>5</SubSectionId>
 	    <SubSectionName>compound-subjects-and-objects-with-personal-pronouns</SubSectionName>
 	</Question>
@@ -1273,7 +1273,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>LL</SectionId>
 	    <SectionName>Grammar and mechanics->Pronouns->Use possessive pronouns</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>6</SubSectionId>
 	    <SubSectionName>use-possessive-pronouns</SubSectionName>
 	</Question>
@@ -1282,7 +1282,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>LL</SectionId>
 	    <SectionName>Grammar and mechanics->Pronouns->Choose between personal and reflexive pronouns</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>7</SubSectionId>
 	    <SubSectionName>choose-between-personal-and-reflexive-pronouns</SubSectionName>
 	</Question>
@@ -1291,7 +1291,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>LL</SectionId>
 	    <SectionName>Grammar and mechanics->Pronouns->Use reflexive pronouns</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>8</SubSectionId>
 	    <SubSectionName>use-reflexive-pronouns</SubSectionName>
 	</Question>
@@ -1300,7 +1300,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>LL</SectionId>
 	    <SectionName>Grammar and mechanics->Pronouns->Identify relative pronouns</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>9</SubSectionId>
 	    <SubSectionName>identify-relative-pronouns</SubSectionName>
 	</Question>
@@ -1309,7 +1309,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>LL</SectionId>
 	    <SectionName>Grammar and mechanics->Pronouns->use-relative-pronouns-who-and-whom</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>10</SubSectionId>
 	    <SubSectionName>use-relative-pronouns-who-and-whom</SubSectionName>
 	</Question>
@@ -1318,7 +1318,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>LL</SectionId>
 	    <SectionName>Grammar and mechanics->Pronouns->Use relative pronouns: who, whom, whose, which, and that</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>11</SubSectionId>
 	    <SubSectionName>use-relative-pronouns-who-whom-whose-which-and-that</SubSectionName>
 	</Question>
@@ -1327,7 +1327,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>MM</SectionId>
 	    <SectionName>Grammar and mechanics->Verb types->Identify main verbs and helping verbs</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>identify-main-verbs-and-helping-verbs</SubSectionName>
 	</Question>
@@ -1462,7 +1462,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>PP</SectionId>
 	    <SectionName>Grammar and mechanics->Adjectives and adverbs->Identify adjectives</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>identify-adjectives</SubSectionName>
 	</Question>
@@ -1552,7 +1552,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>QQ</SectionId>
 	    <SectionName>Grammar and mechanics->Prepositions->Identify prepositions</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>identify-prepositions</SubSectionName>
 	</Question>
@@ -1750,7 +1750,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>WW</SectionId>
 	    <SectionName>Grammar and mechanics->Abbreviations->Abbreviate days of the week and months of the year</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>0</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>abbreviate-days-of-the-week-and-months-of-the-year</SubSectionName>
 	</Question>
@@ -1759,7 +1759,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>WW</SectionId>
 	    <SectionName>Grammar and mechanics->Abbreviations->Abbreviate people's titles</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>0</Enabled>
 	    <SubSectionId>2</SubSectionId>
 	    <SubSectionName>abbreviate-peoples-titles</SubSectionName>
 	</Question>
@@ -1768,7 +1768,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>WW</SectionId>
 	    <SectionName>Grammar and mechanics->Abbreviations->Abbreviate units of measurement</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>0</Enabled>
 	    <SubSectionId>3</SubSectionId>
 	    <SubSectionName>abbreviate-units-of-measurement</SubSectionName>
 	</Question>
@@ -1777,7 +1777,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>WW</SectionId>
 	    <SectionName>Grammar and mechanics->Abbreviations->Abbreviate street names and state names</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>0</Enabled>
 	    <SubSectionId>4</SubSectionId>
 	    <SubSectionName>abbreviate-street-names-and-state-names</SubSectionName>
 	</Question>
