@@ -1237,7 +1237,7 @@
 	    <Grade>2</Grade>
 	    <SectionId>MM</SectionId>
 	    <SectionName>Vocabulary->Homophones->Identify homophones</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>2</SubSectionId>
 	    <SubSectionName>identify-homophones</SubSectionName>
 	</Question>	
