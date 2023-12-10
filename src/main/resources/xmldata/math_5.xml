@@ -4,7 +4,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>A</SectionId>
 	    <SectionName>Whole numbers and place value</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>2</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>convert-between-standard-and-expanded-form</SubSectionName>
 	</Question>
@@ -13,7 +13,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>A</SectionId>
 	    <SectionName>Whole numbers and place value</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>2</Enabled>
 	    <SubSectionId>2</SubSectionId>
 	    <SubSectionName>place-value</SubSectionName>
 	</Question>
@@ -58,7 +58,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>B</SectionId>
 	    <SectionName>Addition and subtraction</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>2</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>estimate-sums-and-differences-of-whole-numbers</SubSectionName>
 	</Question>
@@ -76,7 +76,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>B</SectionId>
 	    <SectionName>Addition and subtraction</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>2</Enabled>
 	    <SubSectionId>3</SubSectionId>
 	    <SubSectionName>add-and-subtract-whole-numbers-up-to-billions</SubSectionName>
 	</Question>
@@ -148,7 +148,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>D</SectionId>
 	    <SectionName>Multiplication</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>2</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>multiplication-patterns-over-increasing-place-values</SubSectionName>
 	</Question>
@@ -157,7 +157,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>D</SectionId>
 	    <SectionName>Multiplication</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>2</Enabled>
 	    <SubSectionId>2</SubSectionId>
 	    <SubSectionName>multiply-numbers-ending-in-zeros</SubSectionName>
 	</Question>
@@ -202,7 +202,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>D</SectionId>
 	    <SectionName>Multiplication</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>2</Enabled>
 	    <SubSectionId>7</SubSectionId>
 	    <SubSectionName>multiply-by-1-digit-numbers</SubSectionName>
 	</Question>
@@ -310,7 +310,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>E</SectionId>
 	    <SectionName>Division</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>2</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>division-patterns-over-increasing-place-values</SubSectionName>
 	</Question>
@@ -382,7 +382,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>E</SectionId>
 	    <SectionName>Division</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>2</Enabled>
 	    <SubSectionId>9</SubSectionId>
 	    <SubSectionName>divide-by-2-digit-numbers-using-models</SubSectionName>
 	</Question>
@@ -490,7 +490,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>F</SectionId>
 	    <SectionName>Factors, multiples, and divisibility</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>3</SubSectionId>
 	    <SubSectionName>prime-factorization</SubSectionName>
 	</Question>
@@ -553,7 +553,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>H</SectionId>
 	    <SectionName>Numerical expressions</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>write-numerical-expressions-one-operation</SubSectionName>
 	</Question>
@@ -562,7 +562,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>H</SectionId>
 	    <SectionName>Numerical expressions</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>2</SubSectionId>
 	    <SubSectionName>write-numerical-expressions-two-operations</SubSectionName>
 	</Question>
@@ -571,7 +571,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>H</SectionId>
 	    <SectionName>Numerical expressions</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>3</SubSectionId>
 	    <SubSectionName>evaluate-numerical-expressions</SubSectionName>
 	</Question>
@@ -580,7 +580,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>H</SectionId>
 	    <SectionName>Numerical expressions</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>4</SubSectionId>
 	    <SubSectionName>evaluate-numerical-expressions-with-parentheses</SubSectionName>
 	</Question>
@@ -589,7 +589,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>H</SectionId>
 	    <SectionName>Numerical expressions</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>5</SubSectionId>
 	    <SubSectionName>evaluate-numerical-expressions-with-parentheses-and-brackets</SubSectionName>
 	</Question>
@@ -598,7 +598,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>H</SectionId>
 	    <SectionName>Numerical expressions</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>6</SubSectionId>
 	    <SubSectionName>identify-mistakes-involving-the-order-of-operations</SubSectionName>
 	</Question>
@@ -607,7 +607,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>H</SectionId>
 	    <SectionName>Numerical expressions</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>7</SubSectionId>
 	    <SubSectionName>evaluate-numerical-expressions-with-parentheses-in-different-places</SubSectionName>
 	</Question>
@@ -616,7 +616,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>H</SectionId>
 	    <SectionName>Numerical expressions</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>8</SubSectionId>
 	    <SubSectionName>missing-operators</SubSectionName>
 	</Question>
@@ -625,7 +625,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>H</SectionId>
 	    <SectionName>Numerical expressions</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>9</SubSectionId>
 	    <SubSectionName>make-the-largest-possible-quotient</SubSectionName>
 	</Question>
@@ -679,7 +679,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>J</SectionId>
 	    <SectionName>Fractions and mixed numbers</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>2</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>fractions-review</SubSectionName>
 	</Question>
@@ -697,7 +697,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>J</SectionId>
 	    <SectionName>Fractions and mixed numbers</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>3</SubSectionId>
 	    <SubSectionName>write-fractions-in-lowest-terms</SubSectionName>
 	</Question>
@@ -724,7 +724,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>J</SectionId>
 	    <SectionName>Fractions and mixed numbers</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>6</SubSectionId>
 	    <SubSectionName>round-mixed-numbers</SubSectionName>
 	</Question>
@@ -751,7 +751,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>K</SectionId>
 	    <SectionName>Compare fractions</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>2</SubSectionId>
 	    <SubSectionName>compare-fractions-using-benchmarks</SubSectionName>
 	</Question>
@@ -778,7 +778,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>L</SectionId>
 	    <SectionName>Add and subtract fractions</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>estimate-sums-and-differences-of-fractions-using-benchmarks</SubSectionName>
 	</Question>
@@ -872,12 +872,12 @@
 	    <SubSectionId>10</SubSectionId>
 	    <SubSectionName>compare-sums-and-differences-of-fractions</SubSectionName>
 	</Question>
-	<Question>
+	<Question> <!-- kishor -->
 	    <Subject>Math</Subject>
 	    <Grade>5</Grade>
 	    <SectionId>M</SectionId>
 	    <SectionName>Add and subtract mixed numbers</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>estimate-sums-and-differences-of-mixed-numbers</SubSectionName>
 	</Question>
@@ -994,7 +994,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>N</SectionId>
 	    <SectionName>Understand fraction multiplication</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>5</SubSectionId>
 	    <SubSectionName>multiply-fractions-by-whole-numbers-using-arrays</SubSectionName>
 	</Question>
@@ -1039,7 +1039,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>O</SectionId>
 	    <SectionName>Multiply fractions and whole numbers</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>multiply-fractions-by-whole-numbers</SubSectionName>
 	</Question>
@@ -1048,7 +1048,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>O</SectionId>
 	    <SectionName>Multiply fractions and whole numbers</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>2</SubSectionId>
 	    <SubSectionName>multiply-fractions-by-whole-numbers-ii</SubSectionName>
 	</Question>
@@ -1057,7 +1057,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>O</SectionId>
 	    <SectionName>Multiply fractions and whole numbers</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>3</SubSectionId>
 	    <SubSectionName>multiply-fractions-by-whole-numbers-word-problems</SubSectionName>
 	</Question>
@@ -1066,7 +1066,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>O</SectionId>
 	    <SectionName>Multiply fractions and whole numbers</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>4</SubSectionId>
 	    <SubSectionName>multiply-fractions-and-whole-numbers-sorting</SubSectionName>
 	</Question>
@@ -1075,7 +1075,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>O</SectionId>
 	    <SectionName>Multiply fractions and whole numbers</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>5</SubSectionId>
 	    <SubSectionName>fractions-of-a-number</SubSectionName>
 	</Question>
@@ -1084,7 +1084,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>O</SectionId>
 	    <SectionName>Multiply fractions and whole numbers</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>6</SubSectionId>
 	    <SubSectionName>fractions-of-a-number-word-problems</SubSectionName>
 	</Question>
@@ -1093,7 +1093,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>O</SectionId>
 	    <SectionName>Multiply fractions and whole numbers</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>7</SubSectionId>
 	    <SubSectionName>fractions-of-a-number-ii</SubSectionName>
 	</Question>
@@ -1102,7 +1102,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>P</SectionId>
 	    <SectionName>Multiply fractions</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>multiply-two-fractions</SubSectionName>
 	</Question>
@@ -1111,7 +1111,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>P</SectionId>
 	    <SectionName>Multiply fractions</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>2</SubSectionId>
 	    <SubSectionName>multiply-two-fractions-word-problems</SubSectionName>
 	</Question>
@@ -1120,7 +1120,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>P</SectionId>
 	    <SectionName>Multiply fractions</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>3</SubSectionId>
 	    <SubSectionName>multiply-three-fractions-and-whole-numbers</SubSectionName>
 	</Question>
@@ -1147,7 +1147,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>P</SectionId>
 	    <SectionName>Multiply fractions</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>6</SubSectionId>
 	    <SubSectionName>understand-fraction-multiplication-and-area</SubSectionName>
 	</Question>
@@ -1165,7 +1165,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>Q</SectionId>
 	    <SectionName>Understand multiplication with mixed numbers</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>multiply-a-mixed-number-by-a-whole-number-using-a-model</SubSectionName>
 	</Question>	
@@ -1174,7 +1174,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>Q</SectionId>
 	    <SectionName>Understand multiplication with mixed numbers</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>2</SubSectionId>
 	    <SubSectionName>multiply-a-mixed-number-by-a-whole-number-using-a-model-ii</SubSectionName>
 	</Question>	
@@ -1183,7 +1183,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>Q</SectionId>
 	    <SectionName>Understand multiplication with mixed numbers</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>3</SubSectionId>
 	    <SubSectionName>multiply-with-mixed-numbers-using-area-models</SubSectionName>
 	</Question>	
@@ -1192,7 +1192,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>R</SectionId>
 	    <SectionName>Multiply mixed numbers</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>estimate-products-of-mixed-numbers</SubSectionName>
 	</Question>	
@@ -1201,7 +1201,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>R</SectionId>
 	    <SectionName>Multiply mixed numbers</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>2</SubSectionId>
 	    <SubSectionName>multiply-a-mixed-number-by-a-whole-number</SubSectionName>
 	</Question>	
@@ -1210,7 +1210,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>R</SectionId>
 	    <SectionName>Multiply mixed numbers</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>3</SubSectionId>
 	    <SubSectionName>multiply-a-mixed-number-by-a-fraction</SubSectionName>
 	</Question>	
@@ -1219,7 +1219,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>R</SectionId>
 	    <SectionName>Multiply mixed numbers</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>4</SubSectionId>
 	    <SubSectionName>multiply-two-mixed-numbers</SubSectionName>
 	</Question>	
@@ -1228,7 +1228,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>R</SectionId>
 	    <SectionName>Multiply mixed numbers</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>5</SubSectionId>
 	    <SubSectionName>multiply-mixed-numbers-fractions-and-whole-numbers</SubSectionName>
 	</Question>	
@@ -1237,7 +1237,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>R</SectionId>
 	    <SectionName>Multiply mixed numbers</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>6</SubSectionId>
 	    <SubSectionName>multiply-three-mixed-numbers-fractions-and-whole-numbers</SubSectionName>
 	</Question>	
@@ -1246,7 +1246,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>R</SectionId>
 	    <SectionName>Multiply mixed numbers</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>7</SubSectionId>
 	    <SubSectionName>multiplication-with-mixed-numbers-word-problems</SubSectionName>
 	</Question>	
@@ -1255,7 +1255,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>R</SectionId>
 	    <SectionName>Multiply mixed numbers</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>8</SubSectionId>
 	    <SubSectionName>multiply-fractions-and-mixed-numbers-in-recipes</SubSectionName>
 	</Question>	
@@ -1264,7 +1264,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>S</SectionId>
 	    <SectionName>Scaling by fractions</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>scaling-whole-numbers-by-fractions-justify-your-answer</SubSectionName>
 	</Question>	
@@ -1273,7 +1273,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>S</SectionId>
 	    <SectionName>Scaling by fractions</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>2</SubSectionId>
 	    <SubSectionName>scaling-whole-numbers-by-fractions</SubSectionName>
 	</Question>	
@@ -1282,7 +1282,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>S</SectionId>
 	    <SectionName>Scaling by fractions</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>3</SubSectionId>
 	    <SubSectionName>scaling-fractions-by-fractions</SubSectionName>
 	</Question>	
@@ -1291,7 +1291,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>S</SectionId>
 	    <SectionName>Scaling by fractions</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>4</SubSectionId>
 	    <SubSectionName>scaling-mixed-numbers-by-fractions</SubSectionName>
 	</Question>	
@@ -1300,7 +1300,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>S</SectionId>
 	    <SectionName>Scaling by fractions</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>5</SubSectionId>
 	    <SubSectionName>scaling-by-fractions</SubSectionName>
 	</Question>	
@@ -1309,7 +1309,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>T</SectionId>
 	    <SectionName>Understand fraction division</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>relate-division-and-fractions</SubSectionName>
 	</Question>	
@@ -1318,7 +1318,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>T</SectionId>
 	    <SectionName>Understand fraction division</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>2</SubSectionId>
 	    <SubSectionName>understand-fractions-as-division-word-problems</SubSectionName>
 	</Question>	
@@ -1327,7 +1327,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>T</SectionId>
 	    <SectionName>Understand fraction division</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>3</SubSectionId>
 	    <SubSectionName>divide-unit-fractions-by-whole-numbers-using-models</SubSectionName>
 	</Question>	
@@ -1336,7 +1336,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>T</SectionId>
 	    <SectionName>Understand fraction division</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>4</SubSectionId>
 	    <SubSectionName>divide-unit-fractions-by-whole-numbers-using-area-models</SubSectionName>
 	</Question>	
@@ -1345,7 +1345,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>T</SectionId>
 	    <SectionName>Understand fraction division</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>5</SubSectionId>
 	    <SubSectionName>divide-whole-numbers-by-unit-fractions-using-models</SubSectionName>
 	</Question>	
@@ -1354,7 +1354,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>T</SectionId>
 	    <SectionName>Understand fraction division</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>6</SubSectionId>
 	    <SubSectionName>divide-whole-numbers-by-unit-fractions-using-area-models</SubSectionName>
 	</Question>	
@@ -1363,7 +1363,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>T</SectionId>
 	    <SectionName>Understand fraction division</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>7</SubSectionId>
 	    <SubSectionName>divide-unit-fractions-and-whole-numbers-using-area-models</SubSectionName>
 	</Question>	
@@ -1372,7 +1372,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>U</SectionId>
 	    <SectionName>Divide unit fractions and whole numbers</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>divide-unit-fractions-by-whole-numbers</SubSectionName>
 	</Question>	
@@ -1381,7 +1381,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>U</SectionId>
 	    <SectionName>Divide unit fractions and whole numbers</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>2</SubSectionId>
 	    <SubSectionName>divide-whole-numbers-by-unit-fractions</SubSectionName>
 	</Question>	
@@ -1390,7 +1390,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>U</SectionId>
 	    <SectionName>Divide unit fractions and whole numbers</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>3</SubSectionId>
 	    <SubSectionName>divide-unit-fractions-and-whole-numbers-denominators-to-12</SubSectionName>
 	</Question>	
@@ -1399,7 +1399,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>U</SectionId>
 	    <SectionName>Divide unit fractions and whole numbers</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>4</SubSectionId>
 	    <SubSectionName>divide-unit-fractions-and-whole-numbers-word-problems</SubSectionName>
 	</Question>	
@@ -1408,7 +1408,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>V</SectionId>
 	    <SectionName>Mixed operations: fractions</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>add-subtract-multiply-and-divide-fractions-and-mixed-numbers</SubSectionName>
 	</Question>	
@@ -1417,7 +1417,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>V</SectionId>
 	    <SectionName>Mixed operations: fractions</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>2</SubSectionId>
 	    <SubSectionName>add-subtract-multiply-and-divide-fractions-and-mixed-numbers-word-problems</SubSectionName>
 	</Question>	
@@ -1426,7 +1426,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>W</SectionId>
 	    <SectionName>Decimal place value</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>2</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>what-decimal-number-is-illustrated</SubSectionName>
 	</Question>	
@@ -1435,7 +1435,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>W</SectionId>
 	    <SectionName>Decimal place value</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>2</Enabled>
 	    <SubSectionId>2</SubSectionId>
 	    <SubSectionName>place-value-models-for-decimal-numbers</SubSectionName>
 	</Question>	
@@ -1444,7 +1444,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>W</SectionId>
 	    <SectionName>Decimal place value</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>3</SubSectionId>
 	    <SubSectionName>understanding-decimals-expressed-in-words</SubSectionName>
 	</Question>	
@@ -1453,7 +1453,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>W</SectionId>
 	    <SectionName>Decimal place value</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>4</SubSectionId>
 	    <SubSectionName>place-values-in-decimal-numbers</SubSectionName>
 	</Question>	
@@ -1462,7 +1462,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>W</SectionId>
 	    <SectionName>Decimal place value</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>5</SubSectionId>
 	    <SubSectionName>relationship-between-decimal-place-values</SubSectionName>
 	</Question>	
@@ -1471,7 +1471,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>W</SectionId>
 	    <SectionName>Decimal place value</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>6</SubSectionId>
 	    <SubSectionName>convert-decimals-between-standard-and-expanded-form</SubSectionName>
 	</Question>	
@@ -1480,7 +1480,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>W</SectionId>
 	    <SectionName>Decimal place value</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>7</SubSectionId>
 	    <SubSectionName>convert-decimals-between-standard-and-expanded-form-using-fractions</SubSectionName>
 	</Question>	
@@ -1489,7 +1489,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>W</SectionId>
 	    <SectionName>Decimal place value</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>8</SubSectionId>
 	    <SubSectionName>compose-and-decompose-decimals-in-multiple-ways</SubSectionName>
 	</Question>	
@@ -1498,7 +1498,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>W</SectionId>
 	    <SectionName>Decimal place value</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>9</SubSectionId>
 	    <SubSectionName>round-decimals</SubSectionName>
 	</Question>	
@@ -1507,7 +1507,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>W</SectionId>
 	    <SectionName>Decimal place value</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>10</SubSectionId>
 	    <SubSectionName>decimal-number-lines</SubSectionName>
 	</Question>	
@@ -1516,7 +1516,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>X</SectionId>
 	    <SectionName>Compare decimals</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>equivalent-decimals</SubSectionName>
 	</Question>	
@@ -1525,7 +1525,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>X</SectionId>
 	    <SectionName>Compare decimals</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>2</SubSectionId>
 	    <SubSectionName>compare-decimals-using-grids</SubSectionName>
 	</Question>	
@@ -1534,7 +1534,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>X</SectionId>
 	    <SectionName>Compare decimals</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>3</SubSectionId>
 	    <SubSectionName>compare-decimals-on-number-lines</SubSectionName>
 	</Question>	
@@ -1543,7 +1543,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>X</SectionId>
 	    <SectionName>Compare decimals</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>4</SubSectionId>
 	    <SubSectionName>compare-decimal-numbers</SubSectionName>
 	</Question>	
@@ -1552,7 +1552,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>X</SectionId>
 	    <SectionName>Compare decimals</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>5</SubSectionId>
 	    <SubSectionName>put-decimal-numbers-in-order</SubSectionName>
 	</Question>	
@@ -1561,7 +1561,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>X</SectionId>
 	    <SectionName>Compare decimals</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>6</SubSectionId>
 	    <SubSectionName>compare-order-and-round-decimals-word-problems</SubSectionName>
 	</Question>	
@@ -1579,7 +1579,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>Y</SectionId>
 	    <SectionName>Convert between decimals and fractions</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>2</SubSectionId>
 	    <SubSectionName>convert-fractions-to-decimals-ii</SubSectionName>
 	</Question>	
@@ -1588,7 +1588,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>Y</SectionId>
 	    <SectionName>Convert between decimals and fractions</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>3</SubSectionId>
 	    <SubSectionName>convert-mixed-numbers-to-decimals</SubSectionName>
 	</Question>	
@@ -1597,7 +1597,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>Y</SectionId>
 	    <SectionName>Convert between decimals and fractions</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>4</SubSectionId>
 	    <SubSectionName>convert-decimals-to-fractions-ii</SubSectionName>
 	</Question>	
@@ -1606,7 +1606,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>Y</SectionId>
 	    <SectionName>Convert between decimals and fractions</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>5</SubSectionId>
 	    <SubSectionName>convert-decimals-to-mixed-numbers</SubSectionName>
 	</Question>	
@@ -1651,7 +1651,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>AA</SectionId>
 	    <SectionName>Add and subtract decimals</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>2</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>add-decimal-numbers-using-blocks</SubSectionName>
 	</Question>	
@@ -1660,7 +1660,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>AA</SectionId>
 	    <SectionName>Add and subtract decimals</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>2</SubSectionId>
 	    <SubSectionName>add-decimal-numbers</SubSectionName>
 	</Question>	
@@ -1669,7 +1669,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>AA</SectionId>
 	    <SectionName>Add and subtract decimals</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>2</Enabled>
 	    <SubSectionId>3</SubSectionId>
 	    <SubSectionName>subtract-decimal-numbers-using-blocks</SubSectionName>
 	</Question>	
@@ -1678,7 +1678,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>AA</SectionId>
 	    <SectionName>Add and subtract decimals</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>4</SubSectionId>
 	    <SubSectionName>subtract-decimal-numbers</SubSectionName>
 	</Question>	
@@ -1687,7 +1687,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>AA</SectionId>
 	    <SectionName>Add and subtract decimals</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>5</SubSectionId>
 	    <SubSectionName>add-and-subtract-decimal-numbers</SubSectionName>
 	</Question>	
@@ -1696,7 +1696,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>AA</SectionId>
 	    <SectionName>Add and subtract decimals</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>6</SubSectionId>
 	    <SubSectionName>add-and-subtract-decimals-word-problems</SubSectionName>
 	</Question>	
@@ -1705,7 +1705,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>AA</SectionId>
 	    <SectionName>Add and subtract decimals</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId></SubSectionId>
 	    <SubSectionName></SubSectionName>
 	</Question>	
@@ -1714,7 +1714,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>AA</SectionId>
 	    <SectionName>Add and subtract decimals</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>7</SubSectionId>
 	    <SubSectionName>choose-decimals-with-a-particular-sum-or-difference</SubSectionName>
 	</Question>	
@@ -1723,7 +1723,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>AA</SectionId>
 	    <SectionName>Add and subtract decimals</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>8</SubSectionId>
 	    <SubSectionName>complete-the-decimal-addition-or-subtraction-sentence</SubSectionName>
 	</Question>	
@@ -1732,7 +1732,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>AA</SectionId>
 	    <SectionName>Add and subtract decimals</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>9</SubSectionId>
 	    <SubSectionName>compare-sums-and-differences-of-decimals</SubSectionName>
 	</Question>	
@@ -1741,7 +1741,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>AA</SectionId>
 	    <SectionName>Add and subtract decimals</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>10</SubSectionId>
 	    <SubSectionName>number-sequences-involving-decimals</SubSectionName>
 	</Question>	
@@ -1750,7 +1750,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>AA</SectionId>
 	    <SectionName>Add and subtract decimals</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>11</SubSectionId>
 	    <SubSectionName>estimate-sums-and-differences-of-decimals-using-rounding</SubSectionName>
 	</Question>	
@@ -1759,7 +1759,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>AA</SectionId>
 	    <SectionName>Add and subtract decimals</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>12</SubSectionId>
 	    <SubSectionName>estimate-sums-and-differences-of-decimals-using-benchmarks</SubSectionName>
 	</Question>	
@@ -1768,7 +1768,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>BB</SectionId>
 	    <SectionName>Multiply decimals by powers of ten</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>multiply-a-decimal-by-a-power-of-ten</SubSectionName>
 	</Question>	
@@ -1777,7 +1777,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>BB</SectionId>
 	    <SectionName>Multiply decimals by powers of ten</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>2</SubSectionId>
 	    <SubSectionName>multiply-a-decimal-by-a-power-of-ten-with-exponents</SubSectionName>
 	</Question>	
@@ -1786,7 +1786,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>BB</SectionId>
 	    <SectionName>Multiply decimals by powers of ten</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>3</SubSectionId>
 	    <SubSectionName>multiply-by-0-1-or-0-01</SubSectionName>
 	</Question>	
@@ -1795,7 +1795,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>BB</SectionId>
 	    <SectionName>Multiply decimals by powers of ten</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>4</SubSectionId>
 	    <SubSectionName>multiply-by-a-power-of-ten-with-decimals-find-the-missing-number</SubSectionName>
 	</Question>	
@@ -1804,7 +1804,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>CC</SectionId>
 	    <SectionName>Multiply decimals by whole numbers</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>estimate-products-of-whole-numbers-and-decimals</SubSectionName>
 	</Question>	
@@ -1813,7 +1813,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>CC</SectionId>
 	    <SectionName>Multiply decimals by whole numbers</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>2</Enabled>
 	    <SubSectionId>2</SubSectionId>
 	    <SubSectionName>multiply-a-decimal-by-a-one-digit-whole-number-using-blocks</SubSectionName>
 	</Question>	
@@ -1822,7 +1822,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>CC</SectionId>
 	    <SectionName>Multiply decimals by whole numbers</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>3</SubSectionId>
 	    <SubSectionName>multiply-a-decimal-by-a-one-digit-whole-number-using-the-distributive-property</SubSectionName>
 	</Question>	
@@ -1831,7 +1831,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>CC</SectionId>
 	    <SectionName>Multiply decimals by whole numbers</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>4</SubSectionId>
 	    <SubSectionName>multiply-a-decimal-by-a-one-digit-whole-number</SubSectionName>
 	</Question>	
@@ -1840,7 +1840,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>CC</SectionId>
 	    <SectionName>Multiply decimals by whole numbers</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>5</SubSectionId>
 	    <SubSectionName>multiply-a-decimal-by-a-two-digit-whole-number-using-area-models</SubSectionName>
 	</Question>	
@@ -1849,7 +1849,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>CC</SectionId>
 	    <SectionName>Multiply decimals by whole numbers</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>6</SubSectionId>
 	    <SubSectionName>multiply-a-decimal-by-a-multi-digit-whole-number</SubSectionName>
 	</Question>	
@@ -1858,7 +1858,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>CC</SectionId>
 	    <SectionName>Multiply decimals by whole numbers</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>7</SubSectionId>
 	    <SubSectionName>multiply-decimals-and-whole-numbers-word-problems</SubSectionName>
 	</Question>	
@@ -1867,7 +1867,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>CC</SectionId>
 	    <SectionName>Multiply decimals by whole numbers</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>8</SubSectionId>
 	    <SubSectionName>multiply-three-or-more-numbers-one-of-which-is-a-decimal</SubSectionName>
 	</Question>	
@@ -1876,7 +1876,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>DD</SectionId>
 	    <SectionName>Multiply decimals</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>estimate-products-of-decimals</SubSectionName>
 	</Question>	
@@ -1885,7 +1885,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>DD</SectionId>
 	    <SectionName>Multiply decimals</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>2</Enabled>
 	    <SubSectionId>2</SubSectionId>
 	    <SubSectionName>complete-the-decimal-multiplication-sentence-using-grids</SubSectionName>
 	</Question>	
@@ -1894,7 +1894,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>DD</SectionId>
 	    <SectionName>Multiply decimals</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>2</Enabled>
 	    <SubSectionId>3</SubSectionId>
 	    <SubSectionName>multiply-decimals-using-grids</SubSectionName>
 	</Question>	
@@ -1903,7 +1903,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>DD</SectionId>
 	    <SectionName>Multiply decimals</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>4</SubSectionId>
 	    <SubSectionName>multiply-two-decimals-where-does-the-decimal-point-go</SubSectionName>
 	</Question>	
@@ -1912,7 +1912,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>DD</SectionId>
 	    <SectionName>Multiply decimals</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>5</SubSectionId>
 	    <SubSectionName>multiply-two-decimals-products-up-to-hundredths</SubSectionName>
 	</Question>	
@@ -1921,7 +1921,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>DD</SectionId>
 	    <SectionName>Multiply decimals</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>6</SubSectionId>
 	    <SubSectionName>multiply-two-decimals-products-up-to-thousandths</SubSectionName>
 	</Question>	
@@ -1930,7 +1930,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>DD</SectionId>
 	    <SectionName>Multiply decimals</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>7</SubSectionId>
 	    <SubSectionName>decimal-multiplication-compare-products-up-to-hundredths</SubSectionName>
 	</Question>	
@@ -1939,7 +1939,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>DD</SectionId>
 	    <SectionName>Multiply decimals</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>8</SubSectionId>
 	    <SubSectionName>decimal-multiplication-compare-products-up-to-thousandths</SubSectionName>
 	</Question>	
@@ -1948,7 +1948,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>EE</SectionId>
 	    <SectionName>Divide decimals by powers of ten</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>divide-by-powers-of-ten</SubSectionName>
 	</Question>	
@@ -1957,7 +1957,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>EE</SectionId>
 	    <SectionName>Divide decimals by powers of ten</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>2</SubSectionId>
 	    <SubSectionName>decimal-division-patterns-over-increasing-place-values</SubSectionName>
 	</Question>	
@@ -1966,7 +1966,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>EE</SectionId>
 	    <SectionName>Divide decimals by powers of ten</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>3</SubSectionId>
 	    <SubSectionName>divide-by-a-power-of-ten-with-exponents</SubSectionName>
 	</Question>	
@@ -1975,7 +1975,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>EE</SectionId>
 	    <SectionName>Divide decimals by powers of ten</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>4</SubSectionId>
 	    <SubSectionName>multiply-and-divide-by-a-power-of-ten-with-exponents</SubSectionName>
 	</Question>	
@@ -1984,7 +1984,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>EE</SectionId>
 	    <SectionName>Divide decimals by powers of ten</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>5</SubSectionId>
 	    <SubSectionName>divide-by-a-power-of-ten-with-decimals-find-the-missing-number</SubSectionName>
 	</Question>	
@@ -1993,7 +1993,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>EE</SectionId>
 	    <SectionName>Divide decimals by powers of ten</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>6</SubSectionId>
 	    <SubSectionName>divide-by-0-1-or-0-01</SubSectionName>
 	</Question>	
@@ -2002,7 +2002,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>FF</SectionId>
 	    <SectionName>Divide decimals</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>estimate-decimal-quotients</SubSectionName>
 	</Question>	
@@ -2011,7 +2011,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>FF</SectionId>
 	    <SectionName>Divide decimals</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>2</Enabled>
 	    <SubSectionId>2</SubSectionId>
 	    <SubSectionName>divide-decimals-using-blocks-complete-the-equation</SubSectionName>
 	</Question>	
@@ -2020,7 +2020,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>FF</SectionId>
 	    <SectionName>Divide decimals</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>3</SubSectionId>
 	    <SubSectionName>divide-decimals-using-area-models-complete-the-equation</SubSectionName>
 	</Question>	
@@ -2029,7 +2029,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>FF</SectionId>
 	    <SectionName>Divide decimals</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>4</SubSectionId>
 	    <SubSectionName>division-with-decimal-quotients</SubSectionName>
 	</Question>	
@@ -2038,7 +2038,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>FF</SectionId>
 	    <SectionName>Divide decimals</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>5</SubSectionId>
 	    <SubSectionName>division-with-decimal-quotients-and-rounding</SubSectionName>
 	</Question>	
@@ -2047,7 +2047,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>FF</SectionId>
 	    <SectionName>Divide decimals</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>6</SubSectionId>
 	    <SubSectionName>division-with-decimal-quotients-word-problems</SubSectionName>
 	</Question>	
@@ -2056,7 +2056,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>FF</SectionId>
 	    <SectionName>Divide decimals</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>7</SubSectionId>
 	    <SubSectionName>divide-by-decimals-without-adding-zeros</SubSectionName>
 	</Question>	
@@ -2065,7 +2065,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>FF</SectionId>
 	    <SectionName>Divide decimals</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>8</SubSectionId>
 	    <SubSectionName>divide-by-decimals</SubSectionName>
 	</Question>	
@@ -2074,7 +2074,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>GG</SectionId>
 	    <SectionName>Mixed operations: decimals</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>add-subtract-multiply-and-divide-decimals</SubSectionName>
 	</Question>	
@@ -2083,7 +2083,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>GG</SectionId>
 	    <SectionName>Mixed operations: decimals</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>2</SubSectionId>
 	    <SubSectionName>add-subtract-multiply-and-divide-decimals-word-problems</SubSectionName>
 	</Question>	
@@ -2182,7 +2182,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>HH</SectionId>
 	    <SectionName>Money</SectionName>
-	    <Enabled>10</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>10</SubSectionId>
 	    <SubSectionName>unit-prices</SubSectionName>
 	</Question>	
@@ -2434,7 +2434,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>LL</SectionId>
 	    <SectionName>Coordinate plane</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>describe-the-coordinate-plane</SubSectionName>
 	</Question>	
@@ -2506,7 +2506,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>MM</SectionId>
 	    <SectionName>Variable expressions</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>write-variable-expressions</SubSectionName>
 	</Question>	
@@ -2623,7 +2623,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>NN</SectionId>
 	    <SectionName>Data and graphs</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>4</SubSectionId>
 	    <SubSectionName>interpret-line-graphs</SubSectionName>
 	</Question>	
@@ -2713,7 +2713,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>NN</SectionId>
 	    <SectionName>Data and graphs</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>14</SubSectionId>
 	    <SubSectionName>interpret-scatter-plots</SubSectionName>
 	</Question>	
@@ -2722,7 +2722,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>NN</SectionId>
 	    <SectionName>Data and graphs</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>15</SubSectionId>
 	    <SubSectionName>predictions-and-trends-in-scatter-plots</SubSectionName>
 	</Question>	
@@ -2731,7 +2731,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>NN</SectionId>
 	    <SectionName>Data and graphs</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>16</SubSectionId>
 	    <SubSectionName>create-scatter-plots</SubSectionName>
 	</Question>	
@@ -2740,7 +2740,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>OO</SectionId>
 	    <SectionName>Statistics</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>find-the-mode</SubSectionName>
 	</Question>	
@@ -2749,7 +2749,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>OO</SectionId>
 	    <SectionName>Statistics</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>2</SubSectionId>
 	    <SubSectionName>find-the-mean</SubSectionName>
 	</Question>	
@@ -2758,7 +2758,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>OO</SectionId>
 	    <SectionName>Statistics</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>3</SubSectionId>
 	    <SubSectionName>find-the-median</SubSectionName>
 	</Question>	
@@ -2767,7 +2767,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>OO</SectionId>
 	    <SectionName>Statistics</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>4</SubSectionId>
 	    <SubSectionName>find-the-range</SubSectionName>
 	</Question>	
@@ -2776,7 +2776,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>OO</SectionId>
 	    <SectionName>Statistics</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>5</SubSectionId>
 	    <SubSectionName>mean-find-the-missing-number</SubSectionName>
 	</Question>	
@@ -2785,7 +2785,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>OO</SectionId>
 	    <SectionName>Statistics</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>6</SubSectionId>
 	    <SubSectionName>median-find-the-missing-number</SubSectionName>
 	</Question>	
@@ -2794,7 +2794,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>OO</SectionId>
 	    <SectionName>Statistics</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>7</SubSectionId>
 	    <SubSectionName>range-find-the-missing-number</SubSectionName>
 	</Question>	
@@ -2803,7 +2803,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>OO</SectionId>
 	    <SectionName>Statistics</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>8</SubSectionId>
 	    <SubSectionName>interpret-charts-and-graphs-to-find-the-mode</SubSectionName>
 	</Question>	
@@ -2812,7 +2812,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>OO</SectionId>
 	    <SectionName>Statistics</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>9</SubSectionId>
 	    <SubSectionName>interpret-charts-and-graphs-to-find-the-mean</SubSectionName>
 	</Question>	
@@ -2821,7 +2821,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>OO</SectionId>
 	    <SectionName>Statistics</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>10</SubSectionId>
 	    <SubSectionName>interpret-charts-and-graphs-to-find-the-median</SubSectionName>
 	</Question>	
@@ -2830,7 +2830,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>OO</SectionId>
 	    <SectionName>Statistics</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>11</SubSectionId>
 	    <SubSectionName>interpret-charts-and-graphs-to-find-the-range</SubSectionName>
 	</Question>	
@@ -2947,7 +2947,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>RR</SectionId>
 	    <SectionName>Polygons</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>is-it-a-polygon</SubSectionName>
 	</Question>	
@@ -2956,7 +2956,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>RR</SectionId>
 	    <SectionName>Polygons</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>2</SubSectionId>
 	    <SubSectionName>number-of-sides-in-polygons</SubSectionName>
 	</Question>	
@@ -2965,7 +2965,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>RR</SectionId>
 	    <SectionName>Polygons</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>3</SubSectionId>
 	    <SubSectionName>regular-and-irregular-polygons</SubSectionName>
 	</Question>	
@@ -2974,7 +2974,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>RR</SectionId>
 	    <SectionName>Polygons</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>4</SubSectionId>
 	    <SubSectionName>sort-polygons-into-venn-diagrams</SubSectionName>
 	</Question>	
@@ -2983,7 +2983,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>RR</SectionId>
 	    <SectionName>Polygons</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>5</SubSectionId>
 	    <SubSectionName>properties-of-polygons</SubSectionName>
 	</Question>	
@@ -3001,7 +3001,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>SS</SectionId>
 	    <SectionName>Perimeter</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>2</SubSectionId>
 	    <SubSectionName>perimeter-with-decimal-side-lengths</SubSectionName>
 	</Question>	
@@ -3010,7 +3010,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>SS</SectionId>
 	    <SectionName>Perimeter</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>3</SubSectionId>
 	    <SubSectionName>perimeter-with-fractional-side-lengths</SubSectionName>
 	</Question>	
@@ -3019,7 +3019,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>SS</SectionId>
 	    <SectionName>Perimeter</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>4</SubSectionId>
 	    <SubSectionName>perimeter-of-figures-on-grids</SubSectionName>
 	</Question>	
@@ -3037,7 +3037,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>TT</SectionId>
 	    <SectionName>Area</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>2</SubSectionId>
 	    <SubSectionName>area-of-rectangles-with-fractions</SubSectionName>
 	</Question>	
@@ -3046,7 +3046,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>TT</SectionId>
 	    <SectionName>Area</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>3</SubSectionId>
 	    <SubSectionName>area-of-rectangles-with-fractions-and-mixed-numbers</SubSectionName>
 	</Question>	
@@ -3082,7 +3082,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>TT</SectionId>
 	    <SectionName>Area</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>7</SubSectionId>
 	    <SubSectionName>area-and-perimeter-word-problems</SubSectionName>
 	</Question>	
@@ -3091,7 +3091,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>UU</SectionId>
 	    <SectionName>Volume</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>volume-of-irregular-figures-made-of-unit-cubes</SubSectionName>
 	</Question>	
@@ -3100,7 +3100,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>UU</SectionId>
 	    <SectionName>Volume</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>2</SubSectionId>
 	    <SubSectionName>volume-of-rectangular-prisms-made-of-unit-cubes</SubSectionName>
 	</Question>	
@@ -3109,7 +3109,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>UU</SectionId>
 	    <SectionName>Volume</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>3</SubSectionId>
 	    <SubSectionName>volume-of-rectangular-prisms-made-of-unit-cubes-word-problems</SubSectionName>
 	</Question>	
@@ -3118,7 +3118,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>UU</SectionId>
 	    <SectionName>Volume</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>4</SubSectionId>
 	    <SubSectionName>volume-of-cubes-and-rectangular-prisms</SubSectionName>
 	</Question>	
@@ -3127,7 +3127,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>UU</SectionId>
 	    <SectionName>Volume</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>5</SubSectionId>
 	    <SubSectionName>volume-of-cubes-and-rectangular-prisms-word-problems</SubSectionName>
 	</Question>	
@@ -3136,7 +3136,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>UU</SectionId>
 	    <SectionName>Volume</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>6</SubSectionId>
 	    <SubSectionName>compare-volumes-and-dimensions-of-rectangular-prisms-word-problems</SubSectionName>
 	</Question>	
@@ -3145,7 +3145,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>UU</SectionId>
 	    <SectionName>Volume</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>7</SubSectionId>
 	    <SubSectionName>volume-of-compound-figures</SubSectionName>
 	</Question>	
@@ -3154,7 +3154,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>UU</SectionId>
 	    <SectionName>Volume</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>8</SubSectionId>
 	    <SubSectionName>volume-of-cubes-and-rectangular-prisms-with-decimal-side-lengths</SubSectionName>
 	</Question>	
@@ -3163,7 +3163,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>UU</SectionId>
 	    <SectionName>Volume</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>9</SubSectionId>
 	    <SubSectionName>compare-and-apply-cubic-units</SubSectionName>
 	</Question>	
@@ -3172,7 +3172,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>VV</SectionId>
 	    <SectionName>Financial literacy</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>income-and-payroll-taxes-understanding-pay-stubs</SubSectionName>
 	</Question>	
@@ -3181,7 +3181,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>VV</SectionId>
 	    <SectionName>Financial literacy</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>2</SubSectionId>
 	    <SubSectionName>income-and-payroll-taxes-word-problems</SubSectionName>
 	</Question>	
@@ -3190,7 +3190,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>VV</SectionId>
 	    <SectionName>Financial literacy</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>3</SubSectionId>
 	    <SubSectionName>sales-and-property-taxes-word-problems</SubSectionName>
 	</Question>	
@@ -3199,7 +3199,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>VV</SectionId>
 	    <SectionName>Financial literacy</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>4</SubSectionId>
 	    <SubSectionName>identify-types-of-taxes-in-the-us</SubSectionName>
 	</Question>	
@@ -3208,7 +3208,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>VV</SectionId>
 	    <SectionName>Financial literacy</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>5</SubSectionId>
 	    <SubSectionName>understand-gross-and-net-income</SubSectionName>
 	</Question>	
@@ -3217,7 +3217,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>VV</SectionId>
 	    <SectionName>Financial literacy</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>6</SubSectionId>
 	    <SubSectionName>calculate-gross-and-net-income</SubSectionName>
 	</Question>	
@@ -3226,7 +3226,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>VV</SectionId>
 	    <SectionName>Financial literacy</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>7</SubSectionId>
 	    <SubSectionName>identify-advantages-and-disadvantages-of-payment-methods</SubSectionName>
 	</Question>	
@@ -3235,7 +3235,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>VV</SectionId>
 	    <SectionName>Financial literacy</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>8</SubSectionId>
 	    <SubSectionName>evaluate-payment-methods</SubSectionName>
 	</Question>	
@@ -3244,7 +3244,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>VV</SectionId>
 	    <SectionName>Financial literacy</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>9</SubSectionId>
 	    <SubSectionName>reading-financial-records</SubSectionName>
 	</Question>	
@@ -3253,7 +3253,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>VV</SectionId>
 	    <SectionName>Financial literacy</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>10</SubSectionId>
 	    <SubSectionName>keeping-financial-records</SubSectionName>
 	</Question>	
@@ -3262,7 +3262,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>VV</SectionId>
 	    <SectionName>Financial literacy</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>11</SubSectionId>
 	    <SubSectionName>balance-a-budget</SubSectionName>
 	</Question>	
@@ -3271,7 +3271,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>VV</SectionId>
 	    <SectionName>Financial literacy</SectionName>
-	    <Enabled>0</Enabled>
+	    <Enabled>1</Enabled>
 	    <SubSectionId>12</SubSectionId>
 	    <SubSectionName>adjust-a-budget</SubSectionName>
 	</Question>	
