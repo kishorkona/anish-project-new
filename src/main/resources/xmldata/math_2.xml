@@ -1714,7 +1714,7 @@
 	    <Grade>2</Grade>
 	    <SectionId>Y</SectionId>
 	    <SectionName>Properties</SectionName>
-	    <Enabled>2</Enabled>
+	    <Enabled>0</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>add-in-any-order</SubSectionName>
 	</Question>
@@ -1723,7 +1723,7 @@
 	    <Grade>2</Grade>
 	    <SectionId>Y</SectionId>
 	    <SectionName>Properties</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>0</Enabled>
 	    <SubSectionId>2</SubSectionId>
 	    <SubSectionName>related-addition-facts</SubSectionName>
 	</Question>
@@ -1732,7 +1732,7 @@
 	    <Grade>2</Grade>
 	    <SectionId>Y</SectionId>
 	    <SectionName>Properties</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>0</Enabled>
 	    <SubSectionId>3</SubSectionId>
 	    <SubSectionName>related-subtraction-facts</SubSectionName>
 	</Question>
@@ -1741,7 +1741,7 @@
 	    <Grade>2</Grade>
 	    <SectionId>Y</SectionId>
 	    <SectionName>Properties</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>0</Enabled>
 	    <SubSectionId>4</SubSectionId>
 	    <SubSectionName>fact-families</SubSectionName>
 	</Question>
@@ -1750,7 +1750,7 @@
 	    <Grade>2</Grade>
 	    <SectionId>Y</SectionId>
 	    <SectionName>Properties</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>0</Enabled>
 	    <SubSectionId>5</SubSectionId>
 	    <SubSectionName>addition-and-subtraction-terms</SubSectionName>
 	</Question>
