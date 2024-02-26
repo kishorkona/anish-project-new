@@ -23,6 +23,9 @@ public class CountByNumbers {
 	int fromMax=5;
 	int toMin=2;
 	int toMax=20;
+	Map<Integer, String> checkMap = new HashMap<>();
+	
+	
 	Map<Integer, Boolean> fromMap = new HashMap<>();
 	Map<Integer, Boolean> toMap = new HashMap<>();
 	
@@ -30,23 +33,33 @@ public class CountByNumbers {
     public ModelAndView getTakeTest(@PathVariable("name") String name) {
 		ModelAndView modelAndView = new ModelAndView();
 		try {
-			int fromRandomNum = fromMin + (int)(Math.random() * ((fromMax - fromMin) + 1));
-			int toRandomNum = toMin + (int)(Math.random() * ((toMax - toMin) + 1));
-			//if(!fromMap.containsKey(fromRandomNum)) {
-				modelAndView.addObject("startNo", fromRandomNum);
-			//}
-			//if(!toMap.containsKey(toRandomNum)) {
-				modelAndView.addObject("endNo", toRandomNum);
-			//}
-			modelAndView.addObject("user_name_key", name);
-			modelAndView.addObject("user_name_key", name);
-			modelAndView.setStatus(HttpStatus.OK);
-			modelAndView.setViewName("count_by_numbers");
-			
+			if(fromMap.size()==fromMax-1 && toMap.size()==toMax-1) {
+				int fromRandomNum = fromMin + (int)(Math.random() * ((fromMax - fromMin) + 1));
+				int toRandomNum = toMin + (int)(Math.random() * ((toMax - toMin) + 1));
+				//if(!fromMap.containsKey(fromRandomNum)) {
+					modelAndView.addObject("startNo", fromRandomNum);
+				//}
+				//if(!toMap.containsKey(toRandomNum)) {
+					modelAndView.addObject("endNo", toRandomNum);
+				//}
+				modelAndView.addObject("user_name_key", name);
+				modelAndView.addObject("user_name_key", name);
+				modelAndView.setStatus(HttpStatus.OK);
+				modelAndView.setViewName("count_by_numbers");
+			}
         } catch (Exception ex) {
             ex.printStackTrace();
         }
     	return modelAndView;
     }
+	
+	private void buildValues() {
+		int cnt=1;
+		for(int i=fromMin;i<=fromMax;i++) {
+			for(int j=toMin;i<=toMax;j++) {
+				checkMap.put(cnt, i+"X"+j+"=");
+			}
+		}
+	}
 	
 }
