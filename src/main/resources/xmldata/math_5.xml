@@ -724,7 +724,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>J</SectionId>
 	    <SectionName>Fractions and mixed numbers</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>2</Enabled>
 	    <SubSectionId>6</SubSectionId>
 	    <SubSectionName>round-mixed-numbers</SubSectionName>
 	</Question>
@@ -1156,7 +1156,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>P</SectionId>
 	    <SectionName>Multiply fractions</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>3</Enabled>
 	    <SubSectionId>7</SubSectionId>
 	    <SubSectionName>multiply-fractions-to-find-area</SubSectionName>
 	</Question>	
@@ -1192,7 +1192,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>R</SectionId>
 	    <SectionName>Multiply mixed numbers</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>2</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>estimate-products-of-mixed-numbers</SubSectionName>
 	</Question>	
@@ -1300,7 +1300,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>S</SectionId>
 	    <SectionName>Scaling by fractions</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>2</Enabled>
 	    <SubSectionId>5</SubSectionId>
 	    <SubSectionName>scaling-by-fractions</SubSectionName>
 	</Question>	
@@ -1650,7 +1650,7 @@
 	    <Subject>Math</Subject>
 	    <Grade>5</Grade>
 	    <SectionId>AA</SectionId>
-	    <SectionName>Add and subtract decimals</SectionName>
+	    <SectionName>add-decimal-numbers-using-blocks</SectionName>
 	    <Enabled>2</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>add-decimal-numbers-using-blocks</SubSectionName>
@@ -1659,7 +1659,7 @@
 	    <Subject>Math</Subject>
 	    <Grade>5</Grade>
 	    <SectionId>AA</SectionId>
-	    <SectionName>Add and subtract decimals</SectionName>
+	    <SectionName>add-decimal-numbers</SectionName>
 	    <Enabled>1</Enabled>
 	    <SubSectionId>2</SubSectionId>
 	    <SubSectionName>add-decimal-numbers</SubSectionName>
@@ -1668,7 +1668,7 @@
 	    <Subject>Math</Subject>
 	    <Grade>5</Grade>
 	    <SectionId>AA</SectionId>
-	    <SectionName>Add and subtract decimals</SectionName>
+	    <SectionName>subtract-decimal-numbers-using-blocks</SectionName>
 	    <Enabled>2</Enabled>
 	    <SubSectionId>3</SubSectionId>
 	    <SubSectionName>subtract-decimal-numbers-using-blocks</SubSectionName>
@@ -1677,7 +1677,7 @@
 	    <Subject>Math</Subject>
 	    <Grade>5</Grade>
 	    <SectionId>AA</SectionId>
-	    <SectionName>Add and subtract decimals</SectionName>
+	    <SectionName>subtract-decimal-numbers</SectionName>
 	    <Enabled>1</Enabled>
 	    <SubSectionId>4</SubSectionId>
 	    <SubSectionName>subtract-decimal-numbers</SubSectionName>
@@ -1686,7 +1686,7 @@
 	    <Subject>Math</Subject>
 	    <Grade>5</Grade>
 	    <SectionId>AA</SectionId>
-	    <SectionName>Add and subtract decimals</SectionName>
+	    <SectionName>add-and-subtract-decimal-numbers</SectionName>
 	    <Enabled>1</Enabled>
 	    <SubSectionId>5</SubSectionId>
 	    <SubSectionName>add-and-subtract-decimal-numbers</SubSectionName>
@@ -1695,7 +1695,7 @@
 	    <Subject>Math</Subject>
 	    <Grade>5</Grade>
 	    <SectionId>AA</SectionId>
-	    <SectionName>Add and subtract decimals</SectionName>
+	    <SectionName>add-and-subtract-decimals-word-problems</SectionName>
 	    <Enabled>1</Enabled>
 	    <SubSectionId>6</SubSectionId>
 	    <SubSectionName>add-and-subtract-decimals-word-problems</SubSectionName>
@@ -1704,16 +1704,7 @@
 	    <Subject>Math</Subject>
 	    <Grade>5</Grade>
 	    <SectionId>AA</SectionId>
-	    <SectionName>Add and subtract decimals</SectionName>
-	    <Enabled>1</Enabled>
-	    <SubSectionId></SubSectionId>
-	    <SubSectionName></SubSectionName>
-	</Question>	
-	<Question>
-	    <Subject>Math</Subject>
-	    <Grade>5</Grade>
-	    <SectionId>AA</SectionId>
-	    <SectionName>Add and subtract decimals</SectionName>
+	    <SectionName>choose-decimals-with-a-particular-sum-or-difference</SectionName>
 	    <Enabled>1</Enabled>
 	    <SubSectionId>7</SubSectionId>
 	    <SubSectionName>choose-decimals-with-a-particular-sum-or-difference</SubSectionName>
@@ -1722,7 +1713,7 @@
 	    <Subject>Math</Subject>
 	    <Grade>5</Grade>
 	    <SectionId>AA</SectionId>
-	    <SectionName>Add and subtract decimals</SectionName>
+	    <SectionName>complete-the-decimal-addition-or-subtraction-sentence</SectionName>
 	    <Enabled>1</Enabled>
 	    <SubSectionId>8</SubSectionId>
 	    <SubSectionName>complete-the-decimal-addition-or-subtraction-sentence</SubSectionName>
@@ -1731,7 +1722,7 @@
 	    <Subject>Math</Subject>
 	    <Grade>5</Grade>
 	    <SectionId>AA</SectionId>
-	    <SectionName>Add and subtract decimals</SectionName>
+	    <SectionName>compare-sums-and-differences-of-decimals</SectionName>
 	    <Enabled>1</Enabled>
 	    <SubSectionId>9</SubSectionId>
 	    <SubSectionName>compare-sums-and-differences-of-decimals</SubSectionName>
@@ -1740,7 +1731,7 @@
 	    <Subject>Math</Subject>
 	    <Grade>5</Grade>
 	    <SectionId>AA</SectionId>
-	    <SectionName>Add and subtract decimals</SectionName>
+	    <SectionName>number-sequences-involving-decimals</SectionName>
 	    <Enabled>1</Enabled>
 	    <SubSectionId>10</SubSectionId>
 	    <SubSectionName>number-sequences-involving-decimals</SubSectionName>
@@ -1749,7 +1740,7 @@
 	    <Subject>Math</Subject>
 	    <Grade>5</Grade>
 	    <SectionId>AA</SectionId>
-	    <SectionName>Add and subtract decimals</SectionName>
+	    <SectionName>estimate-sums-and-differences-of-decimals-using-rounding</SectionName>
 	    <Enabled>1</Enabled>
 	    <SubSectionId>11</SubSectionId>
 	    <SubSectionName>estimate-sums-and-differences-of-decimals-using-rounding</SubSectionName>
@@ -1758,7 +1749,7 @@
 	    <Subject>Math</Subject>
 	    <Grade>5</Grade>
 	    <SectionId>AA</SectionId>
-	    <SectionName>Add and subtract decimals</SectionName>
+	    <SectionName>estimate-sums-and-differences-of-decimals-using-benchmarks</SectionName>
 	    <Enabled>1</Enabled>
 	    <SubSectionId>12</SubSectionId>
 	    <SubSectionName>estimate-sums-and-differences-of-decimals-using-benchmarks</SubSectionName>
@@ -3217,7 +3208,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>VV</SectionId>
 	    <SectionName>Financial literacy</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>3</Enabled>
 	    <SubSectionId>6</SubSectionId>
 	    <SubSectionName>calculate-gross-and-net-income</SubSectionName>
 	</Question>	
