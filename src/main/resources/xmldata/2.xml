@@ -3172,7 +3172,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>VV</SectionId>
 	    <SectionName>Financial literacy</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>0</Enabled>
 	    <SubSectionId>1</SubSectionId>
 	    <SubSectionName>income-and-payroll-taxes-understanding-pay-stubs</SubSectionName>
 	</Question>	
@@ -3181,7 +3181,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>VV</SectionId>
 	    <SectionName>Financial literacy</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>0</Enabled>
 	    <SubSectionId>2</SubSectionId>
 	    <SubSectionName>income-and-payroll-taxes-word-problems</SubSectionName>
 	</Question>	
@@ -3190,7 +3190,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>VV</SectionId>
 	    <SectionName>Financial literacy</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>0</Enabled>
 	    <SubSectionId>3</SubSectionId>
 	    <SubSectionName>sales-and-property-taxes-word-problems</SubSectionName>
 	</Question>	
@@ -3199,7 +3199,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>VV</SectionId>
 	    <SectionName>Financial literacy</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>0</Enabled>
 	    <SubSectionId>4</SubSectionId>
 	    <SubSectionName>identify-types-of-taxes-in-the-us</SubSectionName>
 	</Question>	
@@ -3208,7 +3208,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>VV</SectionId>
 	    <SectionName>Financial literacy</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>0</Enabled>
 	    <SubSectionId>5</SubSectionId>
 	    <SubSectionName>understand-gross-and-net-income</SubSectionName>
 	</Question>	
@@ -3217,7 +3217,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>VV</SectionId>
 	    <SectionName>Financial literacy</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>0</Enabled>
 	    <SubSectionId>6</SubSectionId>
 	    <SubSectionName>calculate-gross-and-net-income</SubSectionName>
 	</Question>	
@@ -3226,7 +3226,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>VV</SectionId>
 	    <SectionName>Financial literacy</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>0</Enabled>
 	    <SubSectionId>7</SubSectionId>
 	    <SubSectionName>identify-advantages-and-disadvantages-of-payment-methods</SubSectionName>
 	</Question>	
@@ -3235,7 +3235,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>VV</SectionId>
 	    <SectionName>Financial literacy</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>0</Enabled>
 	    <SubSectionId>8</SubSectionId>
 	    <SubSectionName>evaluate-payment-methods</SubSectionName>
 	</Question>	
@@ -3244,7 +3244,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>VV</SectionId>
 	    <SectionName>Financial literacy</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>0</Enabled>
 	    <SubSectionId>9</SubSectionId>
 	    <SubSectionName>reading-financial-records</SubSectionName>
 	</Question>	
@@ -3253,7 +3253,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>VV</SectionId>
 	    <SectionName>Financial literacy</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>0</Enabled>
 	    <SubSectionId>10</SubSectionId>
 	    <SubSectionName>keeping-financial-records</SubSectionName>
 	</Question>	
@@ -3262,7 +3262,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>VV</SectionId>
 	    <SectionName>Financial literacy</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>0</Enabled>
 	    <SubSectionId>11</SubSectionId>
 	    <SubSectionName>balance-a-budget</SubSectionName>
 	</Question>	
@@ -3271,7 +3271,7 @@
 	    <Grade>5</Grade>
 	    <SectionId>VV</SectionId>
 	    <SectionName>Financial literacy</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>0</Enabled>
 	    <SubSectionId>12</SubSectionId>
 	    <SubSectionName>adjust-a-budget</SubSectionName>
 	</Question>	
