@@ -1,0 +1,1784 @@
+<Questions>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>A</SectionId>
+	    <SectionName>Reading strategies->Main idea->Use key details to determine the main idea</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>use-key-details-to-determine-the-main-idea</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>A</SectionId>
+	    <SectionName>Reading strategies->Main idea->Determine the main idea of a passage</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>determine-the-main-idea-of-a-passage</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>A</SectionId>
+	    <SectionName>Reading strategies->Main idea->Combine main ideas from two texts</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>combine-main-ideas-from-two-texts</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>B</SectionId>
+	    <SectionName>Reading strategies->Theme->Determine the themes of short stories</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>determine-the-themes-of-short-stories</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>C</SectionId>
+	    <SectionName>Reading strategies->Author's purpose and tone->Identify the purpose of a text</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>identify-purposes-for-writing</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>C</SectionId>
+	    <SectionName>Reading strategies->Author's purpose and tone->Which sentence is more formal?</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>which-sentence-is-more-formal</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>D</SectionId>
+	    <SectionName>Reading strategies->Text structure->Determine the order of events in informational texts</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>determine-the-order-of-events-in-informational-texts</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>D</SectionId>
+	    <SectionName>Reading strategies->Text structure->Compare and contrast in informational texts</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>compare-and-contrast-in-informational-texts</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>D</SectionId>
+	    <SectionName>Reading strategies->Text structure->Match causes and effects in informational texts</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>match-causes-and-effects-in-informational-texts</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>D</SectionId>
+	    <SectionName>Reading strategies->Text structure->Match problems with their solutions</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>4</SubSectionId>
+	    <SubSectionName>match-problems-with-their-solutions</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>D</SectionId>
+	    <SectionName>Reading strategies->Text structure->Identify text structures</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>5</SubSectionId>
+	    <SubSectionName>identify-text-structures</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>E</SectionId>
+	    <SectionName>Reading strategies->Sensory details->Sort sensory details</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>sort-sensory-details</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>E</SectionId>
+	    <SectionName>Reading strategies->Sensory details->Identify sensory details</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>identify-sensory-details</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>F</SectionId>
+	    <SectionName>Reading strategies->Literary devices->Identify similes and metaphors</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>identify-similes-and-metaphors</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>F</SectionId>
+	    <SectionName>Reading strategies->Literary devices->Similes and metaphors with pictures</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>similes-and-metaphors-with-pictures</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>F</SectionId>
+	    <SectionName>Reading strategies->Literary devices->Determine the meanings of similes and metaphors</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>determine-the-meanings-of-similes-and-metaphors</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>F</SectionId>
+	    <SectionName>Reading strategies->Literary devices->Interpret the meaning of an allusion from its source</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>4</SubSectionId>
+	    <SubSectionName>interpret-the-meaning-of-an-allusion-from-its-source</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>F</SectionId>
+	    <SectionName>Reading strategies->Literary devices->Analyze the effects of figures of speech on meaning and tone</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>5</SubSectionId>
+	    <SubSectionName>analyze-the-effects-of-figures-of-speech-on-meaning-and-tone</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>G</SectionId>
+	    <SectionName>Reading strategies->Point of view->Identify the narrative point of view</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>identify-the-narrative-point-of-view</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>G</SectionId>
+	    <SectionName>Reading strategies->Point of view->Compare and contrast points of view</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>compare-and-contrast-points-of-view</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>G</SectionId>
+	    <SectionName>Reading strategies->Point of view->Compare information from two texts</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>compare-information-from-two-texts</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>H</SectionId>
+	    <SectionName>Reading strategies->Inference->Use actions and dialogue to understand characters</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>use-actions-and-dialogue-to-understand-characters</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>H</SectionId>
+	    <SectionName>Reading strategies->Inference->Compare and contrast characters</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>compare-and-contrast-characters</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>H</SectionId>
+	    <SectionName>Reading strategies->Inference->Draw inferences from a text</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>draw-inferences-from-a-text</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>I</SectionId>
+	    <SectionName>Reading strategies->Story elements->Identify story elements</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>identify-story-elements</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>J</SectionId>
+	    <SectionName>Reading strategies->Text features->Select and use text features</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>select-and-use-text-features</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>K</SectionId>
+	    <SectionName>Reading strategies->Visual elements->Compare mythological illustrations</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>compare-mythological-illustrations</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>K</SectionId>
+	    <SectionName>Reading strategies->Visual elements->Read graphic organizers</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>read-graphic-organizers</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>L</SectionId>
+	    <SectionName>Reading strategies->Poetry elements->Label the rhyme scheme</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>label-the-rhyme-scheme</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>L</SectionId>
+	    <SectionName>Reading strategies->Poetry elements->Identify elements of poetry</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>identify-elements-of-poetry</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>M</SectionId>
+	    <SectionName>Reading strategies->Literary texts: level 1->Read fantasy with illustrations</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>read-fantasy-with-illustrations</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>M</SectionId>
+	    <SectionName>Reading strategies->Literary texts: level 1->Read realistic fiction with illustrations</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>read-realistic-fiction-with-illustrations</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>M</SectionId>
+	    <SectionName>Reading strategies->Literary texts: level 1->Read historical fiction with illustrations</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>read-historical-fiction-with-illustrations</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>N</SectionId>
+	    <SectionName>Reading strategies->Literary texts: level 2->Read realistic fiction</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>read-realistic-fiction</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>N</SectionId>
+	    <SectionName>Reading strategies->Literary texts: level 2->Read historical fiction</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>read-historical-fiction</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>N</SectionId>
+	    <SectionName>Reading strategies->Literary texts: level 2->Read poetry</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>read-poetry</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>N</SectionId>
+	    <SectionName>Reading strategies->Literary texts: level 2->Read drama</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>4</SubSectionId>
+	    <SubSectionName>read-drama</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>O</SectionId>
+	    <SectionName>Reading strategies->Informational texts: level 1->Read about animals</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>read-about-animals</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>O</SectionId>
+	    <SectionName>Reading strategies->Informational texts: level 1->Read about art, music, and traditions</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>read-about-art-music-and-traditions</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>O</SectionId>
+	    <SectionName>Reading strategies->Informational texts: level 1->Read about famous places</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>read-about-famous-places</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>O</SectionId>
+	    <SectionName>Reading strategies->Informational texts: level 1->Read about sports and hobbies</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>4</SubSectionId>
+	    <SubSectionName>read-about-sports-and-hobbies</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>P</SectionId>
+	    <SectionName>Reading strategies->Informational texts: level 2->Read about famous people</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>read-about-famous-people</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>P</SectionId>
+	    <SectionName>Reading strategies->Informational texts: level 2->Read about business and technology</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>read-about-business-and-technology</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>P</SectionId>
+	    <SectionName>Reading strategies->Informational texts: level 2->Read about science and nature</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>read-about-science-and-nature</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>P</SectionId>
+	    <SectionName>Reading strategies->Informational texts: level 2->Read about history</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>4</SubSectionId>
+	    <SubSectionName>read-about-history</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>Q</SectionId>
+	    <SectionName>Writing strategies->Organizing writing->Put the sentences in order</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>order-sentences</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>Q</SectionId>
+	    <SectionName>Writing strategies->Organizing writing->Use coordinating conjunctions</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>use-coordinating-conjunctions</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>Q</SectionId>
+	    <SectionName>Writing strategies->Organizing writing->Choose the best transition</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>choose-the-best-transition</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>Q</SectionId>
+	    <SectionName>Writing strategies->Organizing writing->Order items from most general to most specific</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>4</SubSectionId>
+	    <SubSectionName>order-items-from-most-general-to-most-specific</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>Q</SectionId>
+	    <SectionName>Writing strategies->Organizing writing->Organize information by main idea</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>5</SubSectionId>
+	    <SubSectionName>organize-information-by-main-idea</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>Q</SectionId>
+	    <SectionName>Writing strategies->Organizing writing->Remove the sentence that does not belong</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>6</SubSectionId>
+	    <SubSectionName>remove-the-sentence-that-does-not-belong</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>R</SectionId>
+	    <SectionName>Writing strategies->Introductions and conclusions->Choose the best topic sentence</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>choose-the-best-topic-sentence</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>R</SectionId>
+	    <SectionName>Writing strategies->Introductions and conclusions->Choose the best concluding sentence</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>choose-the-best-concluding-sentence</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>S</SectionId>
+	    <SectionName>Writing strategies->Summarizing->Summarize a story</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>summarize-a-story</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>T</SectionId>
+	    <SectionName>Writing strategies->Developing and supporting arguments->Distinguish facts from opinions</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>distinguish-facts-from-opinions</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>T</SectionId>
+	    <SectionName>Writing strategies->Developing and supporting arguments->Identify an author's statement of opinion</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>identify-an-authors-statement-of-opinion</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>T</SectionId>
+	    <SectionName>Writing strategies->Developing and supporting arguments->Choose reasons to support an opinion</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>choose-reasons-to-support-an-opinion</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>T</SectionId>
+	    <SectionName>Writing strategies->Developing and supporting arguments->Identify supporting details in literary texts</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>4</SubSectionId>
+	    <SubSectionName>identify-supporting-details-in-literary-texts</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>T</SectionId>
+	    <SectionName>Writing strategies->Developing and supporting arguments->Identify supporting details in informational texts</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>5</SubSectionId>
+	    <SubSectionName>identify-supporting-details-in-informational-texts</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>U</SectionId>
+	    <SectionName>Writing strategies->Descriptive details->Show character emotions and traits</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>show-character-emotions-and-traits</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>U</SectionId>
+	    <SectionName>Writing strategies->Descriptive details->Revise the sentence using a stronger verb</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>revise-the-sentence-using-a-stronger-verb</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>U</SectionId>
+	    <SectionName>Writing strategies->Descriptive details->Add imagery to stories</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>add-imagery-to-stories</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>V</SectionId>
+	    <SectionName>Writing strategies->Sentence variety->Create varied sentences based on models</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>create-varied-sentences-based-on-models</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>W</SectionId>
+	    <SectionName>Writing strategies->Editing and revising->Use the correct frequently confused word</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>use-the-correct-frequently-confused-word</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>W</SectionId>
+	    <SectionName>Writing strategies->Editing and revising->Correct errors with frequently confused words</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>correct-errors-with-frequently-confused-words</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>W</SectionId>
+	    <SectionName>Writing strategies->Editing and revising->Correct errors with signs</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>correct-errors-with-signs</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>X</SectionId>
+	    <SectionName>Writing strategies->Research skills->Identify and correct plagiarism</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>identify-and-correct-plagiarism</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>Y</SectionId>
+	    <SectionName>Vocabulary->Prefixes and suffixes->Words with pre-</SectionName>
+	    <Enabled>2</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>words-with-pre</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>Y</SectionId>
+	    <SectionName>Vocabulary->Prefixes and suffixes->Words with re-</SectionName>
+	    <Enabled>2</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>words-with-re</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>Y</SectionId>
+	    <SectionName>Vocabulary->Prefixes and suffixes->Words with sub-</SectionName>
+	    <Enabled>2</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>words-with-sub</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>Y</SectionId>
+	    <SectionName>Vocabulary->Prefixes and suffixes->Words with mis-</SectionName>
+	    <Enabled>2</Enabled>
+	    <SubSectionId>4</SubSectionId>
+	    <SubSectionName>words-with-mis</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>Y</SectionId>
+	    <SectionName>Vocabulary->Prefixes and suffixes->Words with un-, dis-, in-, im-, and non-</SectionName>
+	    <Enabled>2</Enabled>
+	    <SubSectionId>5</SubSectionId>
+	    <SubSectionName>words-with-un-dis-in-im-and-non</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>Y</SectionId>
+	    <SectionName>Vocabulary->Prefixes and suffixes->Words with -ful</SectionName>
+	    <Enabled>2</Enabled>
+	    <SubSectionId>6</SubSectionId>
+	    <SubSectionName>words-with-ful</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>Y</SectionId>
+	    <SectionName>Vocabulary->Prefixes and suffixes->Words with -less</SectionName>
+	    <Enabled>2</Enabled>
+	    <SubSectionId>7</SubSectionId>
+	    <SubSectionName>words-with-less</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>Y</SectionId>
+	    <SectionName>Vocabulary->Prefixes and suffixes->Words with -able and -ible</SectionName>
+	    <Enabled>2</Enabled>
+	    <SubSectionId>8</SubSectionId>
+	    <SubSectionName>words-with-able-and-ible</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>Y</SectionId>
+	    <SectionName>Vocabulary->Prefixes and suffixes->Sort words with shared prefixes and suffixes by meaning</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>9</SubSectionId>
+	    <SubSectionName>sort-words-with-shared-prefixes-and-suffixes-by-meaning</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>Y</SectionId>
+	    <SectionName>Vocabulary->Prefixes and suffixes->Sort words with shared suffixes by part of speech</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>10</SubSectionId>
+	    <SubSectionName>sort-words-with-shared-suffixes-by-part-of-speech</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>Y</SectionId>
+	    <SectionName>Vocabulary->Prefixes and suffixes->Word pattern analogies</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>11</SubSectionId>
+	    <SubSectionName>word-pattern-analogies</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>Y</SectionId>
+	    <SectionName>Vocabulary->Prefixes and suffixes->Word pattern sentences</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>12</SubSectionId>
+	    <SubSectionName>word-pattern-sentences</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>Z</SectionId>
+	    <SectionName>Vocabulary->Greek and Latin roots->Sort words by shared Greek or Latin roots</SectionName>
+	    <Enabled>2</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>sort-words-by-shared-greek-or-latin-roots</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>Z</SectionId>
+	    <SectionName>Vocabulary->Greek and Latin roots->Use Greek and Latin roots as clues to the meanings of words</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>use-greek-and-latin-roots-as-clues-to-the-meanings-of-words</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>Z</SectionId>
+	    <SectionName>Vocabulary->Greek and Latin roots->Use the meanings of words as clues to the meanings of Greek and Latin roots</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>use-the-meanings-of-words-as-clues-to-the-meanings-of-greek-and-latin-roots</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>Z</SectionId>
+	    <SectionName>Vocabulary->Greek and Latin roots->Use words as clues to the meanings of Greek and Latin roots</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>4</SubSectionId>
+	    <SubSectionName>use-words-as-clues-to-the-meanings-of-greek-and-latin-roots</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>Z</SectionId>
+	    <SectionName>Vocabulary->Greek and Latin roots->Determine the meanings of Greek and Latin roots</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>5</SubSectionId>
+	    <SubSectionName>determine-the-meanings-of-greek-and-latin-roots</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>Z</SectionId>
+	    <SectionName>Vocabulary->Greek and Latin roots->Determine the meanings of words with Greek and Latin roots</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>6</SubSectionId>
+	    <SubSectionName>determine-the-meanings-of-words-with-greek-and-latin-roots</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>Z</SectionId>
+	    <SectionName>Vocabulary->Greek and Latin roots->Match words with Greek and Latin roots to their meanings</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>7</SubSectionId>
+	    <SubSectionName>match-words-with-greek-and-latin-roots-to-their-meanings</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>AA</SectionId>
+	    <SectionName>Vocabulary->Categories->Select the members of a group</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>select-the-members-of-a-group</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>AA</SectionId>
+	    <SectionName>Vocabulary->Categories->Select the words that don't belong</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>select-the-words-that-dont-belong</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>BB</SectionId>
+	    <SectionName>Vocabulary->Synonyms and antonyms->Choose the synonym</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>choose-the-synonym</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>BB</SectionId>
+	    <SectionName>Vocabulary->Synonyms and antonyms->Find synonyms in context</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>find-synonyms-in-context</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>BB</SectionId>
+	    <SectionName>Vocabulary->Synonyms and antonyms->Choose the antonym</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>choose-the-antonym</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>BB</SectionId>
+	    <SectionName>Vocabulary->Synonyms and antonyms->Find antonyms in context</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>4</SubSectionId>
+	    <SubSectionName>find-antonyms-in-context</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>CC</SectionId>
+	    <SectionName>Vocabulary->Analogies->Analogies</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>analogies</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>DD</SectionId>
+	    <SectionName>Vocabulary->Homophones->Homophones with pictures</SectionName>
+	    <Enabled>2</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>homophones-with-pictures</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>DD</SectionId>
+	    <SectionName>Vocabulary->Homophones->Use the correct homophone</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>use-the-correct-homophone</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>EE</SectionId>
+	    <SectionName>Vocabulary->Multiple-meaning words->Multiple-meaning words with pictures</SectionName>
+	    <Enabled>2</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>multiple-meaning-words-with-pictures</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>EE</SectionId>
+	    <SectionName>Vocabulary->Multiple-meaning words->Which definition matches the sentence?</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>which-definition-matches-the-sentence</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>EE</SectionId>
+	    <SectionName>Vocabulary->Multiple-meaning words->Which sentence matches the definition?</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>which-sentence-matches-the-definition</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>FF</SectionId>
+	    <SectionName>Vocabulary->Idioms and adages->Determine the meaning of idioms from context: set 1</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>determine-the-meaning-of-idioms-from-context-set-1</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>FF</SectionId>
+	    <SectionName>Vocabulary->Idioms and adages->Identify the meaning of idioms and adages: set 1</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>identify-the-meaning-of-idioms-and-adages-set-1</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>FF</SectionId>
+	    <SectionName>Vocabulary->Idioms and adages->Determine the meaning of idioms from context: set 2</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>determine-the-meaning-of-idioms-from-context-set-2</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>FF</SectionId>
+	    <SectionName>Vocabulary->Idioms and adages->Identify the meaning of idioms and adages: set 2</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>4</SubSectionId>
+	    <SubSectionName>identify-the-meaning-of-idioms-and-adages-set-2</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>GG</SectionId>
+	    <SectionName>Vocabulary->Shades of meaning->Describe the difference between related words</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>describe-the-difference-between-related-words</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>GG</SectionId>
+	    <SectionName>Vocabulary->Shades of meaning->Positive and negative connotation</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>positive-and-negative-connotation</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>HH</SectionId>
+	    <SectionName>Vocabulary->Context clues->Find words using context</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>find-words-using-context</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>HH</SectionId>
+	    <SectionName>Vocabulary->Context clues->Determine the meaning of words using synonyms in context</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>determine-the-meaning-of-words-using-synonyms-in-context</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>HH</SectionId>
+	    <SectionName>Vocabulary->Context clues->Use context to identify the meaning of a word</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>use-context-to-identify-the-meaning-of-a-word</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>HH</SectionId>
+	    <SectionName>Vocabulary->Context clues->Determine the meaning of domain-specific words with pictures</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>4</SubSectionId>
+	    <SubSectionName>determine-the-meaning-of-domain-specific-words-with-pictures</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>HH</SectionId>
+	    <SectionName>Vocabulary->Context clues->Use academic vocabulary in context</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>5</SubSectionId>
+	    <SubSectionName>use-academic-vocabulary-in-context</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>II</SectionId>
+	    <SectionName>Vocabulary->Reference skills->Order alphabetically based on the first two letters</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>order-alphabetically-based-on-the-first-two-letters</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>II</SectionId>
+	    <SectionName>Vocabulary->Reference skills->Order alphabetically based on the first three letters</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>order-alphabetically-based-on-the-first-three-letters</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>II</SectionId>
+	    <SectionName>Vocabulary->Reference skills->Order alphabetically: challenge</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>order-alphabetically-challenge</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>II</SectionId>
+	    <SectionName>Vocabulary->Reference skills->Use guide words</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>4</SubSectionId>
+	    <SubSectionName>use-guide-words</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>II</SectionId>
+	    <SectionName>Vocabulary->Reference skills->Use dictionary entries</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>5</SubSectionId>
+	    <SubSectionName>use-dictionary-entries</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>II</SectionId>
+	    <SectionName>Vocabulary->Reference skills->Use dictionary definitions</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>6</SubSectionId>
+	    <SubSectionName>use-dictionary-definitions</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>II</SectionId>
+	    <SectionName>Vocabulary->Reference skills->Use thesaurus entries</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>7</SubSectionId>
+	    <SubSectionName>use-thesaurus-entries</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>JJ</SectionId>
+	    <SectionName>Grammar and mechanics->Sentences, fragments, and run-ons->Is the sentence declarative, interrogative, imperative, or exclamatory?</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>is-the-sentence-declarative-interrogative-imperative-or-exclamatory</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>JJ</SectionId>
+	    <SectionName>Grammar and mechanics->Sentences, fragments, and run-ons->Identify the complete subject or complete predicate of a sentence</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>identify-the-complete-subject-or-complete-predicate-of-a-sentence</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>JJ</SectionId>
+	    <SectionName>Grammar and mechanics->Sentences, fragments, and run-ons->Identify the simple subject or predicate of a sentence</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>identify-the-simple-subject-or-predicate-of-a-sentence</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>JJ</SectionId>
+	    <SectionName>Grammar and mechanics->Sentences, fragments, and run-ons->Is it a complete sentence or a fragment?</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>4</SubSectionId>
+	    <SubSectionName>is-it-a-complete-sentence-or-a-fragment</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>JJ</SectionId>
+	    <SectionName>Grammar and mechanics->Sentences, fragments, and run-ons->Is it a complete sentence or a run-on?</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>5</SubSectionId>
+	    <SubSectionName>is-it-a-complete-sentence-or-a-run-on</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>JJ</SectionId>
+	    <SectionName>Grammar and mechanics->Sentences, fragments, and run-ons->Is it a complete sentence, a fragment, or a run-on?</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>6</SubSectionId>
+	    <SubSectionName>is-it-a-complete-sentence-a-fragment-or-a-run-on</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>JJ</SectionId>
+	    <SectionName>Grammar and mechanics->Sentences, fragments, and run-ons->Identify dependent and independent clauses</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>7</SubSectionId>
+	    <SubSectionName>identify-dependent-and-independent-clauses</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>JJ</SectionId>
+	    <SectionName>Grammar and mechanics->Sentences, fragments, and run-ons->Is the sentence simple or compound?</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>8</SubSectionId>
+	    <SubSectionName>is-the-sentence-simple-or-compound</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>JJ</SectionId>
+	    <SectionName>Grammar and mechanics->Sentences, fragments, and run-ons->Is the sentence simple, compound, or complex?</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>9</SubSectionId>
+	    <SubSectionName>is-the-sentence-simple-compound-or-complex</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>JJ</SectionId>
+	    <SectionName>Grammar and mechanics->Sentences, fragments, and run-ons->Create compound sentences</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>10</SubSectionId>
+	    <SubSectionName>create-compound-sentences</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>JJ</SectionId>
+	    <SectionName>Grammar and mechanics->Sentences, fragments, and run-ons->Order the words to create a sentence</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>11</SubSectionId>
+	    <SubSectionName>order-words-to-create-a-sentence</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>KK</SectionId>
+	    <SectionName>Grammar and mechanics->Nouns->Identify nouns – with abstract nouns</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>identify-nouns-with-abstract-nouns</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>KK</SectionId>
+	    <SectionName>Grammar and mechanics->Nouns->Identify common and proper nouns</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>identify-common-and-proper-nouns</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>KK</SectionId>
+	    <SectionName>Grammar and mechanics->Nouns->Form plurals of nouns ending in f, fe, o, and y</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>form-plurals-of-nouns-ending-in-f-fe-o-and-y</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>KK</SectionId>
+	    <SectionName>Grammar and mechanics->Nouns->Form and use plurals of nouns ending in f, fe, o, and y</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>4</SubSectionId>
+	    <SubSectionName>form-and-use-plurals-of-nouns-ending-in-f-fe-o-and-y</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>KK</SectionId>
+	    <SectionName>Grammar and mechanics->Nouns->Form plurals: review</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>5</SubSectionId>
+	    <SubSectionName>form-plurals-review</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>KK</SectionId>
+	    <SectionName>Grammar and mechanics->Nouns->Form and use plurals: review</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>6</SubSectionId>
+	    <SubSectionName>form-and-use-plurals-review</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>KK</SectionId>
+	    <SectionName>Grammar and mechanics->Nouns->Identify plurals, singular possessives, and plural possessives</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>7</SubSectionId>
+	    <SubSectionName>identify-plurals-singular-possessives-and-plural-possessives</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>KK</SectionId>
+	    <SectionName>Grammar and mechanics->Nouns->Form the singular or plural possessive</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>8</SubSectionId>
+	    <SubSectionName>form-the-singular-or-plural-possessive</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>KK</SectionId>
+	    <SectionName>Grammar and mechanics->Nouns->Identify and correct errors with plural and possessive nouns</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>9</SubSectionId>
+	    <SubSectionName>identify-and-correct-errors-with-plural-and-possessive-nouns</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>LL</SectionId>
+	    <SectionName>Grammar and mechanics->Pronouns->Identify personal pronouns</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>identify-personal-pronouns</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>LL</SectionId>
+	    <SectionName>Grammar and mechanics->Pronouns->Choose between subject and object personal pronouns</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>choose-between-subject-and-object-personal-pronouns</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>LL</SectionId>
+	    <SectionName>Grammar and mechanics->Pronouns->Replace the noun with a personal pronoun</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>replace-the-noun-with-a-personal-pronoun</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>LL</SectionId>
+	    <SectionName>Grammar and mechanics->Pronouns->Compound subjects and objects with 'I' and 'me'</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>4</SubSectionId>
+	    <SubSectionName>compound-subjects-and-objects-with-i-and-me</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>LL</SectionId>
+	    <SectionName>Grammar and mechanics->Pronouns->Compound subjects and objects with personal pronouns</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>5</SubSectionId>
+	    <SubSectionName>compound-subjects-and-objects-with-personal-pronouns</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>LL</SectionId>
+	    <SectionName>Grammar and mechanics->Pronouns->Use possessive pronouns</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>6</SubSectionId>
+	    <SubSectionName>use-possessive-pronouns</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>LL</SectionId>
+	    <SectionName>Grammar and mechanics->Pronouns->Choose between personal and reflexive pronouns</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>7</SubSectionId>
+	    <SubSectionName>choose-between-personal-and-reflexive-pronouns</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>LL</SectionId>
+	    <SectionName>Grammar and mechanics->Pronouns->Use reflexive pronouns</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>8</SubSectionId>
+	    <SubSectionName>use-reflexive-pronouns</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>LL</SectionId>
+	    <SectionName>Grammar and mechanics->Pronouns->Identify relative pronouns</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>9</SubSectionId>
+	    <SubSectionName>identify-relative-pronouns</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>LL</SectionId>
+	    <SectionName>Grammar and mechanics->Pronouns->use-relative-pronouns-who-and-whom</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>10</SubSectionId>
+	    <SubSectionName>use-relative-pronouns-who-and-whom</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>LL</SectionId>
+	    <SectionName>Grammar and mechanics->Pronouns->Use relative pronouns: who, whom, whose, which, and that</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>11</SubSectionId>
+	    <SubSectionName>use-relative-pronouns-who-whom-whose-which-and-that</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>MM</SectionId>
+	    <SectionName>Grammar and mechanics->Verb types->Identify main verbs and helping verbs</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>identify-main-verbs-and-helping-verbs</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>MM</SectionId>
+	    <SectionName>Grammar and mechanics->Verb types->What does the modal verb show?</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>what-does-the-modal-verb-show</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>MM</SectionId>
+	    <SectionName>Grammar and mechanics->Verb types->Use the correct modal verb</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>use-the-correct-modal-verb</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>NN</SectionId>
+	    <SectionName>Grammar and mechanics->Subject-verb agreement->Use the correct subject or verb</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>use-the-correct-subject-or-verb</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>NN</SectionId>
+	    <SectionName>Grammar and mechanics->Subject-verb agreement->Use the correct subject or verb – with compound subjects</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>use-the-correct-subject-or-verb-with-compound-subjects</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>OO</SectionId>
+	    <SectionName>Grammar and mechanics->Verb tense->Is the sentence in the past, present, or future tense?</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>is-the-sentence-in-the-past-present-or-future-tense</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>OO</SectionId>
+	    <SectionName>Grammar and mechanics->Verb tense->Form and use the regular past tense</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>form-and-use-the-regular-past-tense</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>OO</SectionId>
+	    <SectionName>Grammar and mechanics->Verb tense->Form and use the irregular past tense</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>form-and-use-the-irregular-past-tense</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>OO</SectionId>
+	    <SectionName>Grammar and mechanics->Verb tense->Form and use the simple past, present, and future tense</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>4</SubSectionId>
+	    <SubSectionName>form-and-use-the-simple-past-present-and-future-tense</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>OO</SectionId>
+	    <SectionName>Grammar and mechanics->Verb tense->Correct inappropriate shifts in verb tense</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>5</SubSectionId>
+	    <SubSectionName>correct-inappropriate-shifts-in-verb-tense</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>OO</SectionId>
+	    <SectionName>Grammar and mechanics->Verb tense->Use the progressive verb tenses</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>6</SubSectionId>
+	    <SubSectionName>use-the-progressive-verb-tenses</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>OO</SectionId>
+	    <SectionName>Grammar and mechanics->Verb tense->Form the progressive verb tenses</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>7</SubSectionId>
+	    <SubSectionName>form-the-progressive-verb-tenses</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>OO</SectionId>
+	    <SectionName>Grammar and mechanics->Verb tense->Choose between the past tense and past participle</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>8</SubSectionId>
+	    <SubSectionName>choose-between-the-past-tense-and-past-participle</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>OO</SectionId>
+	    <SectionName>Grammar and mechanics->Verb tense->Use the perfect verb tenses</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>9</SubSectionId>
+	    <SubSectionName>use-the-perfect-verb-tenses</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>OO</SectionId>
+	    <SectionName>Grammar and mechanics->Verb tense->Form the perfect verb tenses</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>10</SubSectionId>
+	    <SubSectionName>form-the-perfect-verb-tenses</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>PP</SectionId>
+	    <SectionName>Grammar and mechanics->Adjectives and adverbs->Identify adjectives</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>identify-adjectives</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>PP</SectionId>
+	    <SectionName>Grammar and mechanics->Adjectives and adverbs->Order adjectives</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>order-adjectives</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>PP</SectionId>
+	    <SectionName>Grammar and mechanics->Adjectives and adverbs->Identify adverbs</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>identify-adverbs</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>PP</SectionId>
+	    <SectionName>Grammar and mechanics->Adjectives and adverbs->Use relative adverbs</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>4</SubSectionId>
+	    <SubSectionName>use-relative-adverbs</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>PP</SectionId>
+	    <SectionName>Grammar and mechanics->Adjectives and adverbs->Choose between adjectives and adverbs</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>5</SubSectionId>
+	    <SubSectionName>choose-between-adjectives-and-adverbs</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>PP</SectionId>
+	    <SectionName>Grammar and mechanics->Adjectives and adverbs->Is the word an adjective or adverb?</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>6</SubSectionId>
+	    <SubSectionName>is-the-word-an-adjective-or-adverb</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>PP</SectionId>
+	    <SectionName>Grammar and mechanics->Adjectives and adverbs->Use adjectives to compare</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>7</SubSectionId>
+	    <SubSectionName>use-adjectives-to-compare</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>PP</SectionId>
+	    <SectionName>Grammar and mechanics->Adjectives and adverbs->Spell adjectives that compare</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>8</SubSectionId>
+	    <SubSectionName>spell-adjectives-that-compare</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>PP</SectionId>
+	    <SectionName>Grammar and mechanics->Adjectives and adverbs->Use adjectives with more and most</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>9</SubSectionId>
+	    <SubSectionName>use-adjectives-with-more-and-most</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>PP</SectionId>
+	    <SectionName>Grammar and mechanics->Adjectives and adverbs->Use adverbs to compare</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>10</SubSectionId>
+	    <SubSectionName>use-adverbs-to-compare</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>QQ</SectionId>
+	    <SectionName>Grammar and mechanics->Prepositions->Identify prepositions</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>identify-prepositions</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>QQ</SectionId>
+	    <SectionName>Grammar and mechanics->Prepositions->Identify prepositions and their objects</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>identify-prepositions-and-their-objects</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>QQ</SectionId>
+	    <SectionName>Grammar and mechanics->Prepositions->Identify prepositional phrases</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>identify-prepositional-phrases</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>QQ</SectionId>
+	    <SectionName>Grammar and mechanics->Prepositions->Prepositions: review</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>4</SubSectionId>
+	    <SubSectionName>prepositions-review</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>RR</SectionId>
+	    <SectionName>Grammar and mechanics->Conjunctions->Identify coordinating conjunctions</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>identify-coordinating-conjunctions</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>RR</SectionId>
+	    <SectionName>Grammar and mechanics->Conjunctions->Identify subordinating conjunctions</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>identify-subordinating-conjunctions</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>RR</SectionId>
+	    <SectionName>Grammar and mechanics->Conjunctions->Use the correct pair of correlative conjunctions</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>use-the-correct-pair-of-correlative-conjunctions</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>RR</SectionId>
+	    <SectionName>Grammar and mechanics->Conjunctions->Fill in the missing correlative conjunction</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>4</SubSectionId>
+	    <SubSectionName>fill-in-the-missing-correlative-conjunction</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>SS</SectionId>
+	    <SectionName>Grammar and mechanics->Contractions->Pronoun-verb contractions</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>pronoun-verb-contractions</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>SS</SectionId>
+	    <SectionName>Grammar and mechanics->Contractions->Contractions with 'not'</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>contractions-with-not</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>TT</SectionId>
+	    <SectionName>Grammar and mechanics->Commas->Commas with a series</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>commas-with-a-series</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>TT</SectionId>
+	    <SectionName>Grammar and mechanics->Commas->Commas with dates and places</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>commas-with-dates-and-places</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>TT</SectionId>
+	    <SectionName>Grammar and mechanics->Commas->Commas with direct addresses</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>commas-with-direct-addresses</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>TT</SectionId>
+	    <SectionName>Grammar and mechanics->Commas->Commas with introductory elements</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>4</SubSectionId>
+	    <SubSectionName>commas-with-introductory-elements</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>TT</SectionId>
+	    <SectionName>Grammar and mechanics->Commas->Commas with compound and complex sentences</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>5</SubSectionId>
+	    <SubSectionName>commas-with-compound-and-complex-sentences</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>TT</SectionId>
+	    <SectionName>Grammar and mechanics->Commas->Commas: review</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>6</SubSectionId>
+	    <SubSectionName>commas-review</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>UU</SectionId>
+	    <SectionName>Grammar and mechanics->Capitalization->Correct capitalization errors</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>correct-capitalization-errors</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>UU</SectionId>
+	    <SectionName>Grammar and mechanics->Capitalization->Capitalizing titles</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>capitalizing-titles</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>VV</SectionId>
+	    <SectionName>Grammar and mechanics->Formatting->Formatting titles</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>formatting-titles</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>VV</SectionId>
+	    <SectionName>Grammar and mechanics->Formatting->Formatting and capitalizing titles</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>formatting-and-capitalizing-titles</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>VV</SectionId>
+	    <SectionName>Grammar and mechanics->Formatting->Formatting street addresses</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>formatting-street-addresses</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>VV</SectionId>
+	    <SectionName>Grammar and mechanics->Formatting->Punctuating dialogue</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>4</SubSectionId>
+	    <SubSectionName>punctuating-dialogue</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>WW</SectionId>
+	    <SectionName>Grammar and mechanics->Abbreviations->Abbreviate days of the week and months of the year</SectionName>
+	    <Enabled>0</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>abbreviate-days-of-the-week-and-months-of-the-year</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>WW</SectionId>
+	    <SectionName>Grammar and mechanics->Abbreviations->Abbreviate people's titles</SectionName>
+	    <Enabled>0</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>abbreviate-peoples-titles</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>WW</SectionId>
+	    <SectionName>Grammar and mechanics->Abbreviations->Abbreviate units of measurement</SectionName>
+	    <Enabled>0</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>abbreviate-units-of-measurement</SubSectionName>
+	</Question>
+	<Question>
+	    <Subject>Language Arts</Subject>
+	    <Grade>5</Grade>
+	    <SectionId>WW</SectionId>
+	    <SectionName>Grammar and mechanics->Abbreviations->Abbreviate street names and state names</SectionName>
+	    <Enabled>0</Enabled>
+	    <SubSectionId>4</SubSectionId>
+	    <SubSectionName>abbreviate-street-names-and-state-names</SubSectionName>
+	</Question>
+</Questions>
