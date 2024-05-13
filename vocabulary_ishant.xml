@@ -1,0 +1,98 @@
+<Vocabulary>
+	<Week>
+		<Id>1</Id>
+	    <Name>ishant</Name>
+	    <Word>Tumble</Word>
+	    <WordNo>1</WordNo>
+	    <HasSound>Y</HasSound>
+	    <Meening>Tumble means 'fall and roll over and over.'</Meening>
+	</Week>
+	<Week>
+		<Id>1</Id>
+	    <Name>ishant</Name>
+	    <Word>Swirl</Word>
+	    <WordNo>2</WordNo>
+	    <HasSound>Y</HasSound>
+	    <Meening>Swirl means 'move in a circle.'</Meening>
+	</Week>
+	<Week>
+		<Id>1</Id>
+	    <Name>ishant</Name>
+	    <Word>Compassinate</Word>
+	    <WordNo>3</WordNo>
+	    <HasSound>N</HasSound>
+	    <Meening>Compassinate means 'kind to a person or animal who is suffering or unhappy.'</Meening>
+	</Week>
+	<Week>
+		<Id>1</Id>
+	    <Name>ishant</Name>
+	    <Word>Content</Word>
+	    <WordNo>4</WordNo>
+	    <HasSound>N</HasSound>
+	    <Meening>Content means 'happy with what is happening or what you are doing.'</Meening>
+	</Week>
+	<Week>
+		<Id>2</Id>
+	    <Name>ishant</Name>
+	    <Word>Fearless</Word>
+	    <WordNo>1</WordNo>
+	    <HasSound>N</HasSound>
+	    <Meening>Fearless means 'brave or feeling no fear.'</Meening>
+	</Week>
+	<Week>
+		<Id>2</Id>
+	    <Name>ishant</Name>
+	    <Word>fearful</Word>
+	    <WordNo>2</WordNo>
+	    <HasSound>N</HasSound>
+	    <Meening>Fearful means 'afraid with fear.'</Meening>
+	</Week>
+	<Week>
+		<Id>2</Id>
+	    <Name>ishant</Name>
+	    <Word>familiar</Word>
+	    <WordNo>4</WordNo>
+	    <HasSound>N</HasSound>
+	    <Meening>Familiar means 'well known to you and easy to recognize.'</Meening>
+	</Week>
+	<Week>
+		<Id>2</Id>
+	    <Name>ishant</Name>
+	    <Word>Convince</Word>
+	    <WordNo>5</WordNo>
+	    <HasSound>Y</HasSound>
+	    <Meening>Convince means 'make someone beleve something or decide to do something.'</Meening>
+	</Week>
+	<Week>
+		<Id>3</Id>
+	    <Name>ishant</Name>
+	    <Word>Hurl</Word>
+	    <WordNo>1</WordNo>
+	    <HasSound>Y</HasSound>
+	    <Meening>Hurl means 'throw something hard and fast.'</Meening>
+	</Week>
+	<Week>
+		<Id>3</Id>
+	    <Name>ishant</Name>
+	    <Word>Pester</Word>
+	    <WordNo>2</WordNo>
+	    <HasSound>Y</HasSound>
+	    <Meening>Pester means 'keep bothering or annoying someone.'</Meening>
+	</Week>
+	<Week>
+		<Id>3</Id>
+	    <Name>ishant</Name>
+	    <Word>Glare</Word>
+	    <WordNo>3</WordNo>
+	    <HasSound>Y</HasSound>
+	    <Meening>Glare means 'look at someone or something in an angry way.'</Meening>
+	</Week>
+	<Week>
+		<Id>3</Id>
+	    <Name>ishant</Name>
+	    <Word>Overalls</Word>
+	    <WordNo>4</WordNo>
+	    <HasSound>Y</HasSound>
+	    <Meening>Overalls are 'pants with sholder straps and a top part that covers the chest.' Overalls can be worn over other clothing.</Meening>
+	</Week>
+</Vocabulary>
