@@ -1,0 +1,98 @@
+<Vocabulary>
+	<Week>
+		<WeekNo>1</WeekNo>
+		<GradeNo>4</GradeNo>
+	    <WordName>Whiz</WordName>
+	    <HasSound>false</HasSound>
+	    <Meening>Whiz means 'move very fast.' Some things that whiz make a buzzing or hissing sound.</Meening>
+	    <Enable>true</Enable>
+	</Week>
+	<Week>
+		<WeekNo>1</WeekNo>
+		<GradeNo>4</GradeNo>
+	    <WordName>Squirm</WordName>
+	    <HasSound>false</HasSound>
+	    <Meening>Squirm means 'wiggle or twist your body from side to side, usually because you are bored or uncomfortable.'</Meening>
+	    <Enable>true</Enable>
+	</Week>
+	<Week>
+		<WeekNo>1</WeekNo>
+		<GradeNo>4</GradeNo>
+	    <WordName>Rap</WordName>
+	    <HasSound>false</HasSound>
+	    <Meening>Rap means 'tap or hit something sharply (forcefully) and quickly' rap is also a 'type of music in which words are spoken in time to music which a steady beat.'</Meening>
+	    <Enable>true</Enable>
+	</Week>
+	<Week>
+		<WeekNo>1</WeekNo>
+		<GradeNo>4</GradeNo>
+	    <WordName>Snap</WordName>
+	    <HasSound>false</HasSound>
+	    <Meening>Snap means 'speak sharply or angrily.</Meening>
+	    <Enable>true</Enable>
+	</Week>
+	<Week>
+		<WeekNo>1</WeekNo>
+		<GradeNo>4</GradeNo>
+	    <WordName>Likely</WordName>
+	    <HasSound>false</HasSound>
+	    <Meening>When something is likely, it probably will happen or is probably true.</Meening>
+	    <Enable>true</Enable>
+	</Week>
+	<Week>
+		<WeekNo>1</WeekNo>
+		<GradeNo>4</GradeNo>
+	    <WordName>Unlikely</WordName>
+	    <HasSound>false</HasSound>
+	    <Meening>Unlikely means 'not likely.' When something is likely, it probably will not happen or is probably not true.</Meening>
+	    <Enable>true</Enable>
+	</Week>
+	<Week>
+		<WeekNo>2</WeekNo>
+		<GradeNo>4</GradeNo>
+	    <WordName>volenteer</WordName>
+	    <HasSound>false</HasSound>
+	    <Meening>Volunteer means 'offer to do something or help someone by choice.' When you volunteer, you do something because you want to do it. You do not expect pay or a reward.</Meening>
+	    <Enable>true</Enable>
+	</Week>
+	<Week>
+		<WeekNo>2</WeekNo>
+		<GradeNo>4</GradeNo>
+	    <WordName>bustle</WordName>
+	    <HasSound>false</HasSound>
+	    <Meening>Bustle mean 'rush or hurry in an excited. noisy, or busy way.'</Meening>
+	    <Enable>true</Enable>
+	</Week>
+	<Week>
+		<WeekNo>2</WeekNo>
+		<GradeNo>4</GradeNo>
+	    <WordName>debris</WordName>
+	    <HasSound>false</HasSound>
+	    <Meening>Debris is the 'scattered pieces of something that has been thrown away, broken, or destroyed.'</Meening>
+	    <Enable>true</Enable>
+	</Week>
+	<Week>
+		<WeekNo>2</WeekNo>
+		<GradeNo>4</GradeNo>
+	    <WordName>devastate</WordName>
+	    <HasSound>false</HasSound>
+	    <Meening>Devastate mean 'destroy or badly damage.'</Meening>
+	    <Enable>true</Enable>
+	</Week>
+	<Week>
+		<WeekNo>1</WeekNo>
+		<GradeNo>4</GradeNo>
+	    <WordName>ruckus</WordName>
+	    <HasSound>false</HasSound>
+	    <Meening>Ruckus mean 'noisy confusion or excitement.' Something unexpected or frightening can cause a ruckus.</Meening>
+	    <Enable>true</Enable>
+	</Week>
+	<Week>
+		<WeekNo>1</WeekNo>
+		<GradeNo>4</GradeNo>
+	    <WordName>launge</WordName>
+	    <HasSound>false</HasSound>
+	    <Meening>Lounge means 'sit or lie in a lazy or relaxed way.'</Meening>
+	    <Enable>true</Enable>
+	</Week>
+</Vocabulary>

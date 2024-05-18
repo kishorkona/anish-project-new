@@ -1,0 +1,98 @@
+<Vocabulary>
+	<Week>
+		<WeekNo>1</WeekNo>
+		<GradeNo>4</GradeNo>
+	    <WordName>Tumble</WordName>
+	    <HasSound>false</HasSound>
+	    <Meening>Tumble means 'fall and roll over and over.'</Meening>
+	    <Enable>true</Enable>
+	</Week>
+	<Week>
+		<WeekNo>1</WeekNo>
+		<GradeNo>4</GradeNo>
+	    <WordName>Swirl</WordName>
+	    <HasSound>false</HasSound>
+	    <Meening>Swirl means 'move in a circle.'</Meening>
+	    <Enable>true</Enable>
+	</Week>
+	<Week>
+		<WeekNo>1</WeekNo>
+		<GradeNo>4</GradeNo>
+	    <WordName>Compassinate</WordName>
+	    <HasSound>false</HasSound>
+	    <Meening>Compassinate means 'kind to a person or animal who is suffering or unhappy.'</Meening>
+	    <Enable>true</Enable>
+	</Week>
+	<Week>
+		<WeekNo>1</WeekNo>
+		<GradeNo>4</GradeNo>
+	    <WordName>Content</WordName>
+	    <HasSound>false</HasSound>
+	    <Meening>Content means 'happy with what is happening or what you are doing.'</Meening>
+	    <Enable>true</Enable>
+	</Week>
+	<Week>
+		<WeekNo>2</WeekNo>
+		<GradeNo>4</GradeNo>
+	    <WordName>Fearless</WordName>
+	    <HasSound>false</HasSound>
+	    <Meening>Fearless means 'brave or feeling no fear.'</Meening>
+	    <Enable>true</Enable>
+	</Week>
+	<Week>
+		<WeekNo>2</WeekNo>
+		<GradeNo>4</GradeNo>
+	    <WordName>fearful</WordName>
+	    <HasSound>false</HasSound>
+	    <Meening>Fearful means 'afraid with fear.'</Meening>
+	    <Enable>true</Enable>
+	</Week>
+	<Week>
+		<WeekNo>2</WeekNo>
+		<GradeNo>4</GradeNo>
+	    <WordName>familiar</WordName>
+	    <HasSound>false</HasSound>
+	    <Meening>Familiar means 'well known to you and easy to recognize.'</Meening>
+	    <Enable>true</Enable>
+	</Week>
+	<Week>
+		<WeekNo>3</WeekNo>
+		<GradeNo>4</GradeNo>
+	    <WordName>Convince</WordName>
+	    <HasSound>false</HasSound>
+	    <Meening>Convince means 'make someone beleve something or decide to do something.'</Meening>
+	    <Enable>true</Enable>
+	</Week>
+	<Week>
+		<WeekNo>3</WeekNo>
+		<GradeNo>4</GradeNo>
+	    <WordName>Hurl</WordName>
+	    <HasSound>false</HasSound>
+	    <Meening>Hurl means 'throw something hard and fast.'</Meening>
+	    <Enable>true</Enable>
+	</Week>
+	<Week>
+		<WeekNo>3</WeekNo>
+		<GradeNo>4</GradeNo>
+	    <WordName>Pester</WordName>
+	    <HasSound>false</HasSound>
+	    <Meening>Pester means 'keep bothering or annoying someone.'</Meening>
+	    <Enable>true</Enable>
+	</Week>
+	<Week>
+		<WeekNo>3</WeekNo>
+		<GradeNo>4</GradeNo>
+	    <WordName>Glare</WordName>
+	    <HasSound>false</HasSound>
+	    <Meening>Glare means 'look at someone or something in an angry way.'</Meening>
+	    <Enable>true</Enable>
+	</Week>
+	<Week>
+		<WeekNo>3</WeekNo>
+		<GradeNo>4</GradeNo>
+	    <WordName>Overalls</WordName>
+	    <HasSound>false</HasSound>
+	    <Meening>Overalls are 'pants with sholder straps and a top part that covers the chest.' Overalls can be worn over other clothing.</Meening>
+	    <Enable>true</Enable>
+	</Week>
+</Vocabulary>
